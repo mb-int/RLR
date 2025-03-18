@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)chrome-extension://bhkmchipjcnljhlablgoommejanegoif/html/sidebar.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Sidebar</title>
+  
+  <link rel="stylesheet" href="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/css/sidebar.css">
+  <link rel="stylesheet" type="text/css" href="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/lib/country-select/css/countrySelect.min.css">
+  <link href="./css2" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com/">
+</head>
+<body>
+
+  <div class="headbar">
+    <div class="container">
+      <div class="header-holder">
+        <div class="logo">Atomseo</div>
+        <div class="tools">
+          <a href="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/html/options.html" class="settings" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-settings"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>          </a>
+
+          <span class="btn-close">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+          </span>
+        </div>
+      </div>
+
+      <div class="breadcrumb hidden">
+        <span data-view="main" class="back-button">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-left"><polyline points="11 17 6 12 11 7"></polyline><polyline points="18 17 13 12 18 7"></polyline></svg>
+        </span>
+
+        <span class="viewTitle"></span>
+      </div>
+    </div>
+  </div>
+
+  <div id="toggle-hint" class="hidden text-center toggle-hint" data-i18n="extensionEnableMsg">Please click the button above to enable Atomseo</div>
+
+  <div class="main-container view hidden">
+    <div class="container">
+      <div class="url-line">
+      </div>
+
+      <div class="menu">
+        <div class="menu-item">
+          <span class="menu-item-name icon-section" data-view="broken_links">
+            <div class="icon-container">
+              <svg aria-hidden="true" class="svg-icon" opacity="1">
+                <use xlink:href="../img/_check.svg#icon"></use>
+              </svg>
+            </div>
+
+            <span class="icon-label"><span data-i18n="CheckBrokenLinks">Check Broken Links</span></span>
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml-auto feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+          </span>
+        </div>
+      </div>
+
+      <div id="redirects"></div>
+    </div>
+  </div>
+
+  <div class="view view-onpage_seo hidden">
+    <div class="text-center">
+      <span id="onpage_seo-loading">
+        <img src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/img/loading.gif">
+      </span>
+    </div>
+  </div>
+
+  <div class="view view-broken_links view-main">
+    <div class="container">
+      <div class="url-line">
+        <a class="url" href="https://hepmabtest.ghost.io/applied-data-analytics-for-decision-making/">https://hepmabtest.ghost.io/applied-data-analytics-for-decision-making/</a><a class="url-all" target="_blank" href="https://error404.atomseo.com/SeoCheck/Start?url=https%3A%2F%2Fhepmabtest.ghost.io%2Fapplied-data-analytics-for-decision-making%2F">Check all site</a>
+      </div>
+
+      <div id="robots" class="robots card">
+    <table class="robots-table clear-striped">
+      <tbody><tr>
+        <td class="td-name"><span data-i18n="StatusCode">Status Code</span></td>
+        <td class="td-value">200</td>
+      </tr>
+      <tr>
+        <td class="td-name"><span data-i18n="Indexable">Indexable</span></td>
+        <td class="td-value">
+          <span data-i18n="Yes">Yes</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="td-name"><span data-i18n="Followable">Followable</span></td>
+        <td class="td-value">
+            <span data-i18n="Yes">Yes</span>
+        </td>
+      </tr>
+    </tbody></table>
+  </div>
+
+      <div id="brokenLinks-table-container" class="table-holder card">
+    <table>
+      <tbody><tr class="brokenLinks-row " data-type="all">
+        <td><span class="link-color"></span>Links Checked</td>
+        <td>201 of 201</td>
+      </tr>
+      <tr class="brokenLinks-row " data-type="valid">
+        <td><span class="link-color"></span>Valid Links</td>
+        <td>185</td>
+      </tr>
+      <tr class="brokenLinks-row " data-type="redirect">
+        <td><span class="link-color"></span>Redirects</td>
+        <td>10</td>
+      </tr>
+      <tr class="brokenLinks-row " data-type="broken-all">
+        <td><span class="link-color"></span>Broken Links</td>
+        <td>6</td>
+      </tr>
+    </tbody></table>
+  </div>
+
+      <div id="brokenLinks-allLinks" class="table-holder card">
+        <div class="table-headline d-flex">
+          <a id="brokenLinks-download-btn" class="ml-auto" href="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/html/sidebar.html#" data-i18n="DownloadLinks">Download links</a>
+        </div>
+        <table id="brokenLinks-allLinks-table" class=""><tr class="" data-status="redirect" data-internalexternal="internal" data-follownofollow="follow" data-href="https://hepmabtest.ghost.io/" data-anchor="hepmabtest"><td>1</td><td><a href="https://hepmabtest.ghost.io/" target="_blank">https://hepmabtest.ghost.io/</a></td><td>Redirect</td></tr><tr class="" data-status="broken" data-internalexternal="internal" data-follownofollow="follow" data-href="https://hepmabtest.ghost.io/tags/CS/" data-anchor="CS"><td>2</td><td><a href="https://hepmabtest.ghost.io/tags/CS/" target="_blank">https://hepmabtest.ghost.io/tags/CS/</a></td><td>[404] Broken Link</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://doi.org/10.1007/s40685-019-00104-x?ref=hepmabtest.ghost.io" data-anchor="Explaining the competitive advantage generated from Analytics with the knowledge-based view: the example of Logistics and Supply Chain Management"><td>3</td><td><a href="https://doi.org/10.1007/s40685-019-00104-x?ref=hepmabtest.ghost.io" target="_blank">https://doi.org/10.1007/s40685-019-00104-x?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.investopedia.com/terms/s/spurious_correlation.asp?ref=hepmabtest.ghost.io" data-anchor="Spurious Correlation: definition, how it works, and examples"><td>4</td><td><a href="https://www.investopedia.com/terms/s/spurious_correlation.asp?ref=hepmabtest.ghost.io" target="_blank">https://www.investopedia.com/terms/s/spurious_correlation.asp?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation.html?ref=hepmabtest.ghost.io" data-anchor="Correlation vs Causation"><td>5</td><td><a href="https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation.html?ref=hepmabtest.ghost.io" target="_blank">https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation.html?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-regression.html?ref=hepmabtest.ghost.io" data-anchor="Simple linear regression"><td>6</td><td><a href="https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-regression.html?ref=hepmabtest.ghost.io" target="_blank">https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-regression.html?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://youtu.be/pqYZ-8INqWU?si=JjKbfNOFBVeUPyT3&amp;ref=hepmabtest.ghost.io" data-anchor="Interpretation of regression results"><td>7</td><td><a href="https://youtu.be/pqYZ-8INqWU?si=JjKbfNOFBVeUPyT3&amp;ref=hepmabtest.ghost.io" target="_blank">https://youtu.be/pqYZ-8INqWU?si=JjKbfNOFBVeUPyT3&amp;ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.astera.com/type/blog/etl-what-it-means-and-why-is-it-important/?utm_source=kdnuggets&amp;utm_medium=organic" data-anchor="https://www.astera.com/type/blog/etl-what-it-means-and-why-is-it-important/?utm_source=kdnuggets&amp;utm_medium=organic"><td>8</td><td><a href="https://www.astera.com/type/blog/etl-what-it-means-and-why-is-it-important/?utm_source=kdnuggets&amp;utm_medium=organic" target="_blank">https://www.astera.com/type/blog/etl-what-it-means-and-why-is-it-important/?utm_source=kdnuggets&amp;utm_medium=organic</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.ibm.com/topics/elt?ref=hepmabtest.ghost.io" data-anchor="https://www.ibm.com/topics/elt"><td>9</td><td><a href="https://www.ibm.com/topics/elt?ref=hepmabtest.ghost.io" target="_blank">https://www.ibm.com/topics/elt?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="http://dx.doi.org/10.5772/2352?ref=hepmabtest.ghost.io" data-anchor="http://dx.doi.org/10.5772/2352"><td>10</td><td><a href="http://dx.doi.org/10.5772/2352?ref=hepmabtest.ghost.io" target="_blank">http://dx.doi.org/10.5772/2352?ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="redirect" data-internalexternal="external" data-follownofollow="follow" data-href="http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;ref=hepmabtest.ghost.io" data-anchor="www.youtube.com/watch?v=mYCpF4QFMJ8S,"><td>11</td><td><a href="http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;ref=hepmabtest.ghost.io" target="_blank">http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;ref=hepmabtest.ghost.io</a></td><td>Redirect</td></tr><tr class="" data-status="broken" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json" data-anchor=""><td>12</td><td><a href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json" target="_blank">https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json</a></td><td>[401] Broken Link</td></tr><tr class="" data-status="nodomain" data-internalexternal="external" data-follownofollow="follow" data-href="https://editverse.com/multivariate-analysis-business-problems/?ref=hepmabtest.ghost.io" data-anchor="Multivariate analysis techniques for complex business problems"><td>13</td><td><a href="https://editverse.com/multivariate-analysis-business-problems/?ref=hepmabtest.ghost.io" target="_blank">https://editverse.com/multivariate-analysis-business-problems/?ref=hepmabtest.ghost.io</a></td><td>No response</td></tr><tr class="" data-status="broken" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json" data-anchor=""><td>14</td><td><a href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json" target="_blank">https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=eoffbHouU3g&amp;format=json</a></td><td>[401] Broken Link</td></tr><tr class="" data-status="broken" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;format=json" data-anchor=""><td>15</td><td><a href="https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;format=json" target="_blank">https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=mYCpF4QFMJ8S&amp;format=json</a></td><td>[400] Broken Link</td></tr><tr class="" data-status="broken" data-internalexternal="external" data-follownofollow="follow" data-href="https://www.247.ai/resources/articles/making-the-most-of-customer-data?ref=hepmabtest.ghost.io" data-anchor="https://www.247.ai/resources/articles/making-the-most-of-customer-data"><td></td><td><a href="https://www.247.ai/resources/articles/making-the-most-of-customer-data?ref=hepmabtest.ghost.io" target="_blank">https://www.247.ai/resources/articles/making-the-most-of-customer-data?ref=hepmabtest.ghost.io</a></td><td>[404] Broken Link</td></tr></table>
+      </div>
+      
+      <a class="footer" href="https://error404.atomseo.com/">Powered by atomseo.com, 2025</a>
+    </div>
+  </div>
+  <div class="view view-hreflang_checker hidden">
+    <div class="container">
+      <div class="url-line">
+        <strong><span data-i18n="URL">URL</span></strong>
+      </div>
+
+      <div class="hreflang-status"></div>
+      <div class="hreflang-spinner text-center hidden">
+          <img src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/img/loading.gif">
+      </div>
+      <div class="hreflang-table"></div>
+    </div>
+  </div>
+
+  <!-- Templates START -->
+  <script type="text/html" id="tpl-redirects">
+    <div class="header"><span data-i18n="Redirects">Redirects</span> ({{redirectsCount}})</div>
+    {{#redirectsCount}}
+    {{#hintHTML}}
+      <div class="redirects-hint">
+      {{{hintHTML}}}
+      </div>
+    {{/hintHTML}}
+    <table class="redirects-table">
+      <tr>
+        <th data-i18n="RedirectType">Redirect Type</th>
+        <th data-i18n="URL">URL</th>
+      </tr>
+      {{#path}}
+      <tr>
+        <td class="td-type">{{redirectType}}</td>
+        <td class="td-url">{{redirectUrl}}</td>
+      </tr>
+      {{/path}}
+    </table>
+    {{/redirectsCount}}
+  </script>
+  <script type="text/html" id="tpl-robots-table">
+    <table class="robots-table clear-striped">
+      <tr>
+        <td class="td-name"><span data-i18n="StatusCode">Status Code</span></td>
+        <td class="td-value">{{status}}</td>
+      </tr>
+      <tr>
+        <td class="td-name"><span data-i18n="Indexable">Indexable</span></td>
+        <td class="td-value">
+          {{#noindex}}
+          <span class="robots-td-no"><span data-i18n="No">No</span></span> ({{noindexReason}})
+          {{/noindex}}
+          {{^noindex}}
+          <span data-i18n="Yes">Yes</span>
+          {{/noindex}}
+        </td>
+      </tr>
+      <tr>
+        <td class="td-name"><span data-i18n="Followable">Followable</span></td>
+        <td class="td-value">
+          {{#nofollow}}
+          <span class="robots-td-no"><span data-i18n="No">No</span></span> ({{nofollowReason}})
+          {{/nofollow}}
+          {{^nofollow}}
+            {{#noindex}}
+            -
+            {{/noindex}}
+            {{^noindex}}
+            <span data-i18n="Yes">Yes</span>
+            {{/noindex}}
+          {{/nofollow}}
+        </td>
+      </tr>
+    </table>
+  </script>
+  <script type="text/html" id="tpl-words-breakdown">
+    <head>
+      <link rel="stylesheet" href="/css/sidebar.css">
+      <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    </head>
+    <body>
+      <div class="row">
+        <strong data-i18n="URL">URL</strong><a class="url" href="{{url}}" target="_blank">{{url}}</a>
+        <div class="counters">{{wordsTotal}} <span data-i18n="words">words</span>, {{charsTotal}} <span data-i18n="characters">characters</span></div>
+      </div>
+      <div class="">
+        {{cleanFullText}}
+      </div>
+    </body>
+  </script>
+
+
+  <script type="text/html" id="tpl-page-atomseo">
+    <div class="container">
+      {{#error}}
+      <div class="row onpage-error">
+        <span data-i18n="unableToAnalyzePage">
+          Unable to Analyze Page: The website responded with a 404 header
+        </span>
+      </div>
+      {{/error}}
+      <div class="row">
+        <strong data-i18n="URL">URL</strong>
+        <a class="url" href="{{url}}" target="_blank">{{url}}</a>
+        <div class="counters">
+          <a href="#" class="words-breakdown">
+            {{wordsTotal}} <span data-i18n="words">words</span>,
+            {{charsTotal}} <span data-i18n="characters">characters</span>
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <strong data-i18n="Title">Title</strong>
+        {{#title}}
+          {{title}} ({{titleChars}}/{{titleCharsLimit}} <span data-i18n="chars">chars</span>)
+        {{/title}}
+        {{^title}}
+          <a class="icon-exclamation" href="#" data-title="The title tag is empty" data-i18n-title="titleTagEmpty"></a>
+        {{/title}}
+        {{#titleErrorText}}
+        <div class="error-hint">
+          <a class="icon-exclamation" href="{{titleErrorLink}}" target="_blank" data-title="{{titleErrorText}}"></a>
+        </div>
+        {{/titleErrorText}}
+      </div>
+      <div class="row">
+        <strong data-i18n="Description">Description</strong>
+        {{#description}}
+          {{description}} ({{descriptionChars}}/{{descriptionCharsLimit}} <span data-i18n="chars">chars</span>)
+        {{/description}}
+        {{^description}}
+          <a class="icon-exclamation" href="#" data-title="The description meta tag is empty" data-i18n-title="metaDescriptionTagEmpty"></a>
+        {{/description}}
+        {{#descriptionErrorText}}
+        <div class="error-hint">
+          <a class="icon-exclamation" href="{{descriptionErrorLink}}" target="_blank" data-title="{{descriptionErrorText}}"></a>
+        </div>
+        {{/descriptionErrorText}}
+      </div>
+      <div class="row">
+        <strong data-i18n="Canonical">Canonical</strong>
+        {{#canonical}}
+        <a href="{{canonical}}" target="_blank">{{canonical}}</a>
+        {{/canonical}}
+        {{^canonical}}
+        <span data-i18n="None">None</span>
+        {{/canonical}}
+      </div>
+      <div class="row"><strong data-i18n="MetaRobots">Meta Robots</strong>{{robots}}</div>
+      <div class="row table-holder card">
+        <div class="table-headline">
+          <span data-i18n="Headings">Headings</span>{{#headersCount}}
+          ({{headersCount}})
+          <span class="headings-sort-setting">
+            <label><input type="radio" name="input-headingsSorted" value="bytype"><span data-i18n="sortByType">Sort by Type</span></label>
+            <label><input type="radio" name="input-headingsSorted" value="no"><span data-i18n="noSorting">No Sorting</span></label>
+          </span>
+          {{/headersCount}}
+        </div>
+
+        <span>{{^headersCount}}<span data-i18n="None">None</span>{{/headersCount}}</span>
+        <table class="headers-table headers-table-unsorted collapsed {{^headersTableUnsorted}}hidden{{/headersTableUnsorted}}">
+          <tr><th>No</th><th data-i18n="Type">Type</th><th data-i18n="HeadingText">Heading Text</th><th><span class="icon-bulb" data-state="off" data-target="all"></span></th></tr>
+          {{#headersTableUnsorted}}
+          <tr data-table="unsorted">
+            <td>{{index}}</td>
+            <td class="td-tag">{{tag}}</td>
+            <td class="td-header">{{text}}</td>
+            <td><span class="icon-bulb" data-state="off"></span></td>
+          </tr>
+          {{/headersTableUnsorted}}
+        </table>
+        <table class="headers-table headers-table-sorted collapsed {{^headersTableSorted}}hidden{{/headersTableSorted}}">
+          <tr><th>No</th><th data-i18n="Type">Type</th><th data-i18n="HeadingText">Heading Text</th><th><span class="icon-bulb" data-state="off" data-target="all"></span></th></tr>
+          {{#headersTableSorted}}
+          <tr data-table="sorted">
+            <td>{{index}}</td>
+            <td class="td-tag">{{tag}}</td>
+            <td class="td-header">{{text}}</td>
+            <td><span class="icon-bulb" data-state="off"></span></td>
+          </tr>
+          {{/headersTableSorted}}
+        </table>
+        <div class="table-footer">
+          {{#headersTableMore}}
+            <a href="#" id="btn-headersTable-expand" data-i18n="showAllHeadings">show all headings</a>
+            <a href="#" class="hidden" id="btn-headersTable-collapse" data-i18n="showFewerHeadings">show fewer headings</a>
+          {{/headersTableMore}}
+          <a href="#" id="btn-headings-download" data-i18n="Download" data-type="all">download</a>
+        </div>
+      </div>
+      <div class="row inline">
+        <div><strong data-i18n="TotalImages">Total Images</strong>: {{img.total}} <a href="#" id="btn-all-imgs-download" data-i18n="Download" data-type="all">Download</a></div>
+        <div>
+          <strong data-i18n="ImagesWithoutALTText">Images without ALT Text</strong>: {{img.noAltCount}}
+          <a href="#" id="btn-show-no-alt-imgs" class="{{^img.noAltCount}}hidden{{/img.noAltCount}}" data-i18n="Show">Show</a>
+          <a href="#" id="btn-no-alt-imgs-download" data-i18n="Download" data-type="noalt">Download</a>
+          <div class="img-list hidden">
+            {{#img.noAltImgs}}
+            <a href="{{.}}" target="_blank">{{.}}</a>
+            {{/img.noAltImgs}}
+          </div>
+
+        </div>
+      </div>
+      <div class="row table-holder card">
+      <div class="table-headline" data-i18n="OpenGraph">Open Graph</div>
+      {{^og}}
+        <span data-i18n="NotImplemented">Not implemented</span>
+      {{/og}}
+      <table class="og-table {{^og}}hidden{{/og}}">
+        <tr><th data-i18n="Tag">Tag</th><th data-i18n="Text">Text</th></tr>
+        {{#og}}
+          <tr>
+            <td>{{prop}}</td>
+            <td>
+              {{#isLink}}
+                <a href="{{content}}" target="_blank">{{content}}</a>
+              {{/isLink}}
+              {{^isLink}}
+                <span class="og-value-{{status}}">{{content}}</span>
+              {{/isLink}}
+            </td>
+          </tr>
+        {{/og}}
+      </table>
+
+      {{#hasTwitterGraph}}
+      <strong class="table-headline" data-i18n="TwitterGraph">Twitter Graph</strong>
+      {{^tw}}
+        <span data-i18n="NotImplemented">Not implemented</span>
+      {{/tw}}
+      <table class="og-table {{^tw}}hidden{{/tw}}">
+        <tr><th data-i18n="Tag">Tag</th><th data-i18n="Text">Text</th></tr>
+        {{#tw}}
+          <tr>
+            <td>{{prop}}</td>
+            <td>
+              {{#isLink}}
+                <a href="{{content}}" target="_blank">{{content}}</a>
+              {{/isLink}}
+              {{^isLink}}
+                <span class="og-value-{{status}}">{{content}}</span>
+              {{/isLink}}
+            </td>
+          </tr>
+        {{/tw}}
+      </table>
+      {{/hasTwitterGraph}}
+
+      <!-- <div class="banner-bottom">
+        <iframe class="iframe-widget" scrolling="no" data-from="onpage"></iframe>
+      </div> -->
+    </div>
+    </div>
+  </script>
+
+
+  <script type="text/html" id="tpl-broken-links">
+    <table>
+    {{#table}}
+      <tr class="brokenLinks-row {{#inProgress}}inProgress{{/inProgress}}" data-type="{{type}}">
+        <td><span class="link-color"></span>{{name}}</td>
+        <td>{{count}}</td>
+      </tr>
+    {{/table}}
+    </table>
+  </script>
+
+
+  <script type="text/html" id="tpl-hreflang-table">
+    <div class="text-right">
+      <button class="btn" id="hreflang-download-btn" data-i18n="Download" data-csv={{csv}}>Download</button>
+    </div>
+
+    <div class="table-holder card">
+      <header class="t-head">
+        <div class="t-row">
+          <div class="t-col" data-i18n="Lang">Lang</div>
+          <div class="flex-fill" data-i18n="Link">Link</div>
+        </div>
+      </header>
+      {{#table}}
+        <div class="t-row border-top">
+          <div class="t-col lang-col">{{lang}}</div>
+          <div class="flex-fill">
+            {{#missing}}
+            <p class="mt-0 mb-1 hreflang-td-no" data-i18n="Missing">Missing</p>
+            {{/missing}}
+            {{^missing}}
+            <a class="mb-1 url" href="{{href}}" target="_blank">{{href}}</a>
+            {{/missing}}
+          </div>
+        </div>
+        <div class="t-row">
+          <ul class="nav">
+            <li class="nav-item">
+              <span class="text-muted" data-i18n="Valid">Valid</span>
+              {{#valid}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/valid}}
+              {{^valid}}<span class="sm-badge sm-badge-dg"><span data-i18n="No">No</span></span>{{/valid}}
+            </li>
+            <li class="nav-item">
+              <span class="text-muted" data-i18n="Exists">Exists</span>
+              {{#exist}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/exist}}
+              {{^exist}}<span class="sm-badge sm-badge-dg"><span data-i18n="No">No</span></span>{{/exist}}
+            </li>
+            <li class="nav-item">
+              <span class="text-muted" data-i18n="ReturnTag">Return Tag</span>
+              {{#domOnly}}
+              {{#return}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/return}}{{^return}}<span class="hint" data-title='Since the hreflang tags on this page are created by Javascript, Atomseo cannot validate the "Return Tag" and "Default Exists" column.' data-i18n-title="hreflangDOMHint">?</span>{{/return}}
+              {{/domOnly}}
+              {{^domOnly}}
+              {{#return}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/return}}{{^return}}<span class="sm-badge sm-badge-dg"><span data-i18n="No">No</span></span>{{/return}}
+              {{/domOnly}}
+            </li>
+            <li class="nav-item">
+              <span class="text-muted" data-i18n="DefaultExists">Default Exists</span>
+              {{#domOnly}}
+              {{#default}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/default}}{{^default}}<span class="hint" data-title='Since the hreflang tags on this page are created by Javascript, Atomseo cannot validate the "Return Tag" and "Default Exists" column.' data-i18n-title="hreflangDOMHint">?</span>{{/default}}
+              {{/domOnly}}
+              {{^domOnly}}
+              {{#default}}<span class="sm-badge sm-badge-sc" data-i18n="Yes">Yes</span>{{/default}}{{^default}}<span class="sm-badge sm-badge-dg"><span data-i18n="No">No</span></span>{{/default}}
+              {{/domOnly}}
+            </li>
+          </ul>
+        </div>
+      {{/table}}
+    </div>
+  </script>
+
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/lib/jquery-3.7.1.min.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/lib/mustache-3.2.1.min.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/lib/country-select/js/countrySelect.min.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/localize.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/prefix.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/prefix-init.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/helpers.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/csv.js"></script>
+  <script type="text/javascript" src="chrome-extension://bhkmchipjcnljhlablgoommejanegoif/js/sidebar-content.js"></script>
+
+
+<div id="hint-popup"></div></body></html>
