@@ -10,7 +10,13 @@
     {% include header.html %}
 
     <h1>{{ page.title }}</h1>
-    <aside id="toc" class="card pull-right no-print"><strong class="is-center">Contents</strong><hr/></aside>
+    <aside class="card pull-right no-print is-fixed">
+        <strong class="is-center">Contents</strong>
+        <hr/>
+        <div id="toc"></div>
+        <hr/>
+        <a href="#" onclick="javascript:window.print();" class="button outline primary" style="width:100%;">EXPORT</a>
+    </aside>
     <section id="content">
       {{ content }}
     </section>
