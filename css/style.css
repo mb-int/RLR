@@ -5,9 +5,8 @@
   }
 
 aside {
-    position:fixed;
-    top:0;
     float:right;
+    position: sticky;
     margin: 5px 5px 0 0;
 }
 section {}
