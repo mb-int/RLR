@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 @media print {
   .no-print {
     display: none !important;
@@ -18,6 +20,6 @@
   --grid-gutter: 2rem;
   --font-size: 1.6rem;
   --font-color: #333333;
-  --font-family-sans: sans-serif;
+  --font-family-sans: Lato, sans-serif;
   --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
 }
