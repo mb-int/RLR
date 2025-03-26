@@ -3,8 +3,8 @@
     var toc = "";
     var level = 0;
 
-    document.getElementById("contents").innerHTML =
-        document.getElementById("contents").innerHTML.replace(
+    document.getElementById("content").innerHTML =
+        document.getElementById("content").innerHTML.replace(
             /<h([\d])>([^<]+)<\/h([\d])>/gi,
             function (str, openLevel, titleText, closeLevel) {
                 if (openLevel != closeLevel) {
