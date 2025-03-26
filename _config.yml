@@ -1,4 +1,4 @@
 name: Required Learning Resources
-theme: just-the-docs
+remote-theme: mb-int/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
