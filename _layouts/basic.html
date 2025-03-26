@@ -10,6 +10,13 @@
     {% include header.html %}
 
     <h1>{{ page.title }}</h1>
+
+<div class="row">
+  <div class="col">
+    <section id="content">
+      {{ content }}
+    </section> </div>
+  <div class="col">
     <aside class="card no-print">
         <strong class="is-center">Contents</strong>
         <hr/>
@@ -17,9 +24,8 @@
         <hr/>
         <a href="#" onclick="javascript:window.print();" class="button outline primary" style="width:100%;">EXPORT</a>
     </aside>
-    <section id="content">
-      {{ content }}
-    </section>
+  </div>  
+   
  {% include footer.html %}
   </body>
 </html>
