@@ -6,7 +6,7 @@ Students examines marketing practices in a dynamic global environment. In the mo
 
 ## **Unit 1:** Global Marketing Culture and Communication
 
-### Lesson 1: Communication and Culture
+### Lesson 1: Communication and Culture 
 
 1. [Direct and indirect influence of project managers’ contingent reward leadership and](https://journals.sagepub.com/doi/full/10.1177/18479790211073443) [empowering leadership on project success](https://journals.sagepub.com/doi/full/10.1177/18479790211073443)
 
