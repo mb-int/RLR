@@ -112,28 +112,28 @@ This document contains the required learning resources and references for the **
 
 ### **Lesson 3:** Resistance to Change
 
-1. Read [The Psychology of Resistance to Change: The Antidotal](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) [Effect of Organizational Justice, Support and Leader-Member](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) [Exchange](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) by Rehman et al. (2021).
+1. Read [The Psychology of Resistance to Change: The Antidotal Effect of Organizational Justice, Support and Leader-Member Exchange](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) by Rehman et al. (2021).
 2. Read [Resistance to (Digital) Change](https://link.springer.com/chapter/10.1007/978-3-030-55878-9_13) by Scholkmann (2021).
 3. Read [A Reducing Resistance to Change Model](https://journals.univ-danubius.ro/index.php/oeconomica/article/view/2896/html) by Braduţanu (2015).
 4. Read [Resistance to Change as a Mediator Between](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full)
 
-[Conscientiousness and Teachers’ Job Satisfaction. The](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full) [Moderating Role of Learning Goals Orientation](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full) by Paloş (2022).
+[Conscientiousness and Teachers’ Job Satisfaction. The Moderating Role of Learning Goals Orientation](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full) by Paloş (2022).
 
 ### **Lesson 4:** Contemporary Change Models
 
-1. Read [The determinants of organizational change management](https://journals.sagepub.com/doi/full/10.1177/18479790211016273) [success: Literature review and case study](https://journals.sagepub.com/doi/full/10.1177/18479790211016273) by Errida et al. (2021).
-2. Read [Change Engagement, Change Resources, and Change](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) [Demands: A Model for Positive Employee Orientations to](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) [Organizational Change](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) by Albrecht et al. (2020).
-3. Read [The Influence of Change-Related Organizational and Job](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.910206/full) [Resources on Employee Change Engagement](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.910206/full) by Albrecht et al. (2022).
-4. Read [A Theoretical Analysis of Managerial Growth in the](https://www.mdpi.com/2071-1050/14/8/4523/htm) [Context of Organizational Change](https://www.mdpi.com/2071-1050/14/8/4523/htm) by Kolbergytė & Dromantaitė (2022).
-5. Read [Exploring a model for finding meaning in the changing](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2071-07632012000100005) [world of work](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2071-07632012000100005) by Burger et al. (2012).
+1. Read [The determinants of organizational change management success: Literature review and case study](https://journals.sagepub.com/doi/full/10.1177/18479790211016273) by Errida et al. (2021).
+2. Read [Change Engagement, Change Resources, and Change Demands: A Model for Positive Employee Orientations to Organizational Change](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) by Albrecht et al. (2020).
+3. Read [The Influence of Change-Related Organizational and Job Resources on Employee Change Engagement](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.910206/full) by Albrecht et al. (2022).
+4. Read [A Theoretical Analysis of Managerial Growth in the Context of Organizational Change](https://www.mdpi.com/2071-1050/14/8/4523/htm) by Kolbergytė & Dromantaitė (2022).
+5. Read [Exploring a model for finding meaning in the changing world of work](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2071-07632012000100005) by Burger et al. (2012).
 
 ### **Lesson 5:** Leading Through Organisational Development (OD)
 
-1. Read [A Framework to Map a Practice as Organization](https://www.sciencedirect.com/science/article/pii/S2212567114001907) [Development](https://www.sciencedirect.com/science/article/pii/S2212567114001907) by Gohil & Deshpande (2014).
-2. Read [Understanding organisational development, sustainability,](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [and diffusion of innovations within hospitals participating in a](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [multilevel quality collaborative](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) by Dückers et al. (2011).
+1. Read [A Framework to Map a Practice as Organization Development](https://www.sciencedirect.com/science/article/pii/S2212567114001907) by Gohil & Deshpande (2014).
+2. Read [Understanding organisational development, sustainability, and diffusion of innovations within hospitals participating in a](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [multilevel quality collaborative](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) by Dückers et al. (2011).
 3. Read [Leadership for organisation development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development) by the Queensland Government (2022).
-4. Read [The Emergence of Value-Based Leadership Behavior at the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
-5. Read [Organizational innovation: a comprehensive model for](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) [catalyzing organizational development and change in a rapidly](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) [changing world](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) by Steiber & Alänge (2015).
+4. Read [The Emergence of Value-Based Leadership Behavior at the Frontline of Management: A Role Theory Perspective and Future Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
+5. Read [Organizational innovation: a comprehensive model for catalyzing organizational development and change in a rapidly changing world](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) by Steiber & Alänge (2015).
 
 ## **Unit 4:** The Ethical Leader
 
@@ -242,7 +242,7 @@ _Development, 4_(1), 29–43. [https://doi.org/10.18775/ijied.1849-7551-](https:
 
 Al Rahbi, D., Khalid, K., & Khan, M. (2017). The effects of leadership styles on team motivation. _Academy of Strategic Management Journal,_
 
-_16_(3). [https://www.abacademies.org/articles/the-effects-of-](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) [leadership-styles-on-team-motivation-6793.html](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html)
+_16_(3). [https://www.abacademies.org/articles/the-effects-of- leadership-styles-on-team-motivation-6793.html](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html)
 
 Alshamari, S. (2020, September 30). Laissez-Faire Leadership Positively Impacts Organisational Commitment in Healthcare Centres in Qatar. _International Journal of Advanced Research, 8_(9), 967–
 
