@@ -21,8 +21,8 @@ This document contains the required learning resources and references for the **
 
 ### **Lesson 2:** Characteristics of Effective Leaders
 
-1. Read [Role of Leadership Behaviour in Organizational Culture and](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) [Job](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) by Semordzi (2018).
-2. Read [A qualitative study of leadership characteristics among](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) [women who catalyze positive community change](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) by Folta et al. (2012).
+1. Read [Role of Leadership Behaviour in Organizational Culture and Job](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) by Semordzi (2018).
+2. Read [A qualitative study of leadership characteristics among women who catalyze positive community change](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) by Folta et al. (2012).
 3. Read [Do Big 5 Personality Characteristics and Narcissism Predict](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01817/full) [Engagement in Leader Development?](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01817/full) by Blair et al. (2018).
 4. Read [What are the characteristics of effective leaders?](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186) by Ingrid (2018).
 5. Read [Leadership style and leadership effectiveness: Does](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) [cultural intelligence moderate the relationship?](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) by Solomon & Steyn (2017).
