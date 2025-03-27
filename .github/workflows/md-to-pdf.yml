@@ -24,6 +24,14 @@ jobs:
           # Default is true, can set to false to only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v4
-        with:
-          name: docs
-          path: docs
+        steps:
+        - run: mkdir -p test
+        - run: echo hello > test/world.txt
+        - uses: actions/upload-artifact@v4
+          with:
+            name: my-artifact
+            path: test/world.txt
+      
+      #  with:
+       #   name: docs
+        #  path: docs
