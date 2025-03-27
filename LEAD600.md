@@ -494,13 +494,9 @@ _Journal of Organizational Culture, Communications and Conflict, 25_(2). [https:
 
 Paloş, R., Vîrgă, D., & Craşovan, M. (2022, January 24). Resistance to change as a mediator between conscientiousness and teachers’ job satisfaction. The moderating role of learning goals orientation. _Frontiers in Psychology, 12_. <https://doi.org/10.3389/fpsyg.2021.757681>
 
-Peyton, T., Zigarmi, D., & Fowler, S. N. (2019). Examining the relationship between leaders’ power use, followers’ motivational outlooks, and followers’ work intentions. _Frontiers in Psychology,_
+Peyton, T., Zigarmi, D., & Fowler, S. N. (2019). Examining the relationship between leaders’ power use, followers’ motivational outlooks, and followers’ work intentions. _Frontiers in Psychology, 9\._ <https://doi.org/10.3389/fpsyg.2018.02620>
 
-_9\._ <https://doi.org/10.3389/fpsyg.2018.02620>
-
-Queensland Government. (2022, July 1). _Leadership for organisation_
-
-_development._ For Government | Queensland Government. Retrieved September 6, 2022, from [https://www.forgov.qld.gov.au/news-events- and-consultation/news/leadership-for-organisation-development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development)
+Queensland Government. (2022, July 1). _Leadership for organisation development._ For Government \| Queensland Government. Retrieved September 6, 2022, from [https://www.forgov.qld.gov.au/news-events- and-consultation/news/leadership-for-organisation-development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development)
 
 Rahbi, D., Khalid, K., & Khan, M. (2017). The effects of leadership styles on team motivation. _Academy of Strategic Management_
 
