@@ -46,6 +46,10 @@ function htmlTableOfContents(documentRef) {
         }
 
         currentList.appendChild(listItem);
+       // Add 'top' link inside <small> tag in each heading
+        var topLink = documentRef.createElement('small');
+        topLink.innerHTML = '<a href="#top">top</a>';
+        heading.appendChild(topLink);
     });
 }
 
