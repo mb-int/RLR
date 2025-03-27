@@ -1,7 +1,5 @@
   - name: Markdown to PDF and HTML
-  # You may pin to the exact commit or the version.
-  # uses: BaileyJM02/markdown-to-pdf@1be26775add5f94fb55d4a2ce36ff7cad23b8dd0
-  uses: BaileyJM02/markdown-to-pdf@v1
+    uses: BaileyJM02/markdown-to-pdf@v1
   with: INTL603.md
     # (Path) or (File) The location of the folder containing your .md or .markdown files, or a path to a single .md or .markdown file that you would like to convert.
     input_path: # optional
