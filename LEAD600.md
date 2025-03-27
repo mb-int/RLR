@@ -486,7 +486,7 @@ Merriam-Webster. (n.d.). Laissez-faire. In _Merriam-Webster.com._
 
 <https://www.merriam-webster.com/dictionary/laissez-faire>
 
-_Neojungian typology’s free personality test._ (n.d.). Neojungian Typology | Talking Typology Into the Future. Retrieved September 26, 2022, from <https://www.neojungiantypology.com/njti4>
+_Neojungian typology’s free personality test._ (n.d.). Neojungian Typology \| Talking Typology Into the Future. Retrieved September 26, 2022, from <https://www.neojungiantypology.com/njti4>
 
 Odiaga, J., Guglielmo, M., Catrambone, C., Gierlowski, T., Bruti, C., Richter, L., & M, J. (2021). Kotter’s change model in higher education: Transforming siloed education to a culture of interprofessionalism.
 
