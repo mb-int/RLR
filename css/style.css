@@ -3,6 +3,10 @@
 #content {
     padding: 0 3rem;
   }
+.toplink { 
+    float: right;
+    font-size: 1.2rem;
+}
 ol#toc {
     list-style-type: none;
         padding-inline-start: 0;
