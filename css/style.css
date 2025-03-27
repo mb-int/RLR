@@ -3,7 +3,12 @@
 #content {
     padding: 0 3rem;
   }
-
+ol#toc {
+    list-style-type: none;
+}
+ol#toc ol {
+    list-style-type: none;
+}
 aside {
     position: sticky;
     top:0;
