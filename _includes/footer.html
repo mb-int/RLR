@@ -1,6 +1,7 @@
 <script>
   window.onload = function () {
     htmlTableOfContents();
+    addYTLinks();
 };
 
   
@@ -59,5 +60,20 @@ try {
 } catch (e) {
     // module.exports is not defined
 }
+
+  function addYTLinks(){
+    document.querySelectorAll("a").forEach(link => {
+        const ytRegex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
+        const match = link.href.match(ytRegex);
+        
+        if (match) {
+            const videoID = match[1];
+            const newLink = document.createElement("a");
+            newLink.className = "youtube-check";
+            newLink.href = `https://i.ytimg.com/vi/${videoID}/hqdefault.jpg`;
+            link.insertAdjacentElement("afterend", newLink);
+        }
+    });
+  }
 
 </script>
