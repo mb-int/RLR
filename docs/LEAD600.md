@@ -12,7 +12,7 @@ This document contains the required learning resources and references for the **
 
 ## **Unit 1:** The Foundation of Effective Leadership
 
-### **Lesson 1:** Defining Leadership and Leader Power...
+### **Lesson 1:** Defining Leadership and Leader Power
 
 1. Read Organizational Behavior by Black et al. (2019).
     1. [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introduction)
