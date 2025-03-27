@@ -3,3 +3,8 @@ name: Markdown to PDF
 # uses: valtyr/pandoc-action@cff3b6abcee213e0512955bdf82e63994c64f350
 uses: valtyr/pandoc-action@v0.1-alpha
           
+on:
+  push:
+    # Sequence of patterns matched against refs/heads
+    branches:
+      - main
