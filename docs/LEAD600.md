@@ -11,7 +11,7 @@ This document contains the required learning resources and references for the **
 
 ***
 
-## **Unit 1:** The Foundation of Effective Leadership
+## **Unit 1:** The Foundation of Effective Leadership 
 
 ### **Lesson 1:** Defining Leadership and Leader Power
 
