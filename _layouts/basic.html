@@ -10,11 +10,11 @@
   <body>
     {% include header.html %}
 
-    <h1>{{ page.title }}</h1>
+    
 
 <div class="row reverse">
   <div class="no-print col col-12 col-3-md col-4-lg">
-    <aside class="card">
+    <aside class="bg-light">
         <strong class="is-center">Contents</strong>
         <hr/>
         <div id="toc"></div>
@@ -24,6 +24,7 @@
   </div>  
   <div class="col col-12 col-9-md col-8-lg">
     <section id="content">
+      <h1>{{ page.title }}</h1>
       {{ content }}
     </section>
   </div>
