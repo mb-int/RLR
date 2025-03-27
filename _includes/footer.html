@@ -35,6 +35,7 @@ function htmlTableOfContents(documentRef) {
         link.textContent = heading.textContent;
 
         var listItem = documentRef.createElement('li');
+        listItem.appendChild(link);
 
         while (listStack.length > 0 && listStack[listStack.length - 1].level >= level) {
             listStack.pop();
@@ -48,31 +49,13 @@ function htmlTableOfContents(documentRef) {
 
         var newList;
         if (listStack.length === 0 || listStack[listStack.length - 1].level < level) {
-            if (level === 2) {
-                // Collapse only level 2 lists
-                var details = documentRef.createElement('details');
-                var summary = documentRef.createElement('summary');
-                summary.textContent = heading.textContent; // Show level 2 heading as toggle
-                details.appendChild(summary);
-                newList = documentRef.createElement('ol');
-                details.appendChild(newList);
-                listItem.appendChild(details);
-            } else {
-                // Regular nested list for other levels
-                newList = documentRef.createElement('ol');
-                listItem.appendChild(newList);
-            }
+            newList = documentRef.createElement('ol');
+            listItem.appendChild(newList);
             listStack.push({ level: level, list: newList });
         }
 
-        // Append the link inside the summary for level 2
-        if (level < 2) {
-            listItem.appendChild(link);
-        }
-
         currentList.appendChild(listItem);
-
-        // Add 'top' link inside <small> tag in each heading
+       // Add 'top' link inside <small> tag in each heading
         var topLink = documentRef.createElement('span');
         topLink.setAttribute('class', "toplink no-print");
         topLink.innerHTML = '<a href="#top">top</a>';
@@ -85,7 +68,6 @@ try {
 } catch (e) {
     // module.exports is not defined
 }
-
 
   function addYTLinks(){
     document.querySelectorAll("a").forEach(link => {
