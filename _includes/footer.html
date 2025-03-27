@@ -13,14 +13,14 @@ function addBlankTargetToExternalLinks() {
         });
 }
   
+  
 function htmlTableOfContents(documentRef) {
     var documentRef = documentRef || document;
     var toc = documentRef.getElementById('toc');
     if (!toc) return;
 
-    var headings = [].slice.call(documentRef.body.querySelectorAll('h1, h2, h3, h4, h5, h6'));
-    var currentList = toc;
-    var listStack = [{ level: 0, list: toc }];
+    var headings = [].slice.call(documentRef.body.querySelectorAll('h1, h2, h3'));
+    var units = {};
 
     headings.forEach(function (heading) {
         var level = parseInt(heading.tagName.substring(1));
@@ -29,37 +29,42 @@ function htmlTableOfContents(documentRef) {
             headingId = 'heading-' + Math.random().toString(36).substr(2, 9);
             heading.setAttribute('id', headingId);
         }
-        
+
         var link = documentRef.createElement('a');
         link.setAttribute('href', '#' + headingId);
         link.textContent = heading.textContent;
 
-        var listItem = documentRef.createElement('li');
-        listItem.appendChild(link);
-
-        while (listStack.length > 0 && listStack[listStack.length - 1].level >= level) {
-            listStack.pop();
+        if (level === 1) {
+            // Create a new Unit section
+            units[heading.textContent] = {
+                summary: heading.textContent,
+                lessons: []
+            };
+        } else if (level === 2) {
+            // Add lesson links under the last Unit
+            let lastUnit = Object.keys(units).pop();
+            if (lastUnit) {
+                units[lastUnit].lessons.push(link);
+            }
         }
+    });
 
-        if (listStack.length === 0) {
-            currentList = toc;
-        } else {
-            currentList = listStack[listStack.length - 1].list;
-        }
+    // Build TOC
+    Object.values(units).forEach(unit => {
+        var details = documentRef.createElement('details');
+        var summary = documentRef.createElement('summary');
+        summary.textContent = unit.summary;
+        details.appendChild(summary);
 
-        var newList;
-        if (listStack.length === 0 || listStack[listStack.length - 1].level < level) {
-            newList = documentRef.createElement('ol');
-            listItem.appendChild(newList);
-            listStack.push({ level: level, list: newList });
-        }
+        var lessonList = documentRef.createElement('ul');
+        unit.lessons.forEach(lesson => {
+            var listItem = documentRef.createElement('li');
+            listItem.appendChild(lesson);
+            lessonList.appendChild(listItem);
+        });
 
-        currentList.appendChild(listItem);
-       // Add 'top' link inside <small> tag in each heading
-        var topLink = documentRef.createElement('span');
-        topLink.setAttribute('class', "toplink no-print");
-        topLink.innerHTML = '<a href="#top">top</a>';
-        heading.appendChild(topLink);
+        details.appendChild(lessonList);
+        toc.appendChild(details);
     });
 }
 
