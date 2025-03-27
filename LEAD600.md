@@ -5,6 +5,7 @@ layout: basic
 ## Required Learning Resources and References
 ***
 This document contains the required learning resources and references for the **Leadership and Organisational Behaviour** module. Please select the link to the lesson you are working through in the table of contents to jump to that lesson’s required learning resources.
+
 ***
 
 ## **Unit 1:** The Foundation of Effective Leadership
