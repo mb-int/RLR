@@ -70,7 +70,7 @@ Students examine marketing practices in a dynamic global environment. In the mod
 
 ### Lesson 1: BOP Markets and Neuromarketing
 
-1. [Fortune at the Bottom of the Pyramid | C K Prahalad | Rethinking Capitalism](https://youtu.be/zG0DkwO_wIc?si=7_byEZsVx4HEKVu5)
+1. [Fortune at the Bottom of the Pyramid \| C K Prahalad \| Rethinking Capitalism](https://youtu.be/zG0DkwO_wIc?si=7_byEZsVx4HEKVu5)
 
 ### Lesson 2: Market Segments
 
