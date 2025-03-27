@@ -47,7 +47,8 @@ function htmlTableOfContents(documentRef) {
 
         currentList.appendChild(listItem);
        // Add 'top' link inside <small> tag in each heading
-        var topLink = documentRef.createElement('small');
+        var topLink = documentRef.createElement('span');
+        topLink.setAttribute('class', "toplink");
         topLink.innerHTML = '<a href="#top">top</a>';
         heading.appendChild(topLink);
     });
