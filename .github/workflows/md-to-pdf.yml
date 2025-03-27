@@ -25,6 +25,6 @@ jobs:
           build_html: false
       - uses: actions/upload-artifact@v4
         with:
-          name: **
+          name: docs/**.pdf
           path: pdfs/**.pdf
           compression-level: 0
