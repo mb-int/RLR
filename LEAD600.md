@@ -16,8 +16,8 @@ This document contains the required learning resources and references for the **
 
 1. Read Organizational Behavior by Black et al. (2019).
     1. [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introduction)
-2. Read [Drivers or Drifters? The “Who” and “Why” of Leader Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) [Occupancy—A Mixed-Method Study](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) by Auvinen et al. (2021).
-3. Read [The Emergence of Value-Based Leadership Behavior at the Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
+2. Read [Drivers or Drifters? The “Who” and “Why” of Leader Role Occupancy—A Mixed-Method Study](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) by Auvinen et al. (2021).
+3. Read [The Emergence of Value-Based Leadership Behavior at the Frontline of Management: A Role Theory Perspective and Future Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
 4. Read [The Impact of Acceptance of Leader criteria on Instructional Leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) by Hejres et al. (2017).
 5. Watch [Distinguishing Leadership and Management Activities](https://www.youtube.com/watch?v=KGlv8iHAdeo) by Wisc-Online (2019).
 
