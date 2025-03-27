@@ -20,8 +20,9 @@ function htmlTableOfContents(documentRef) {
     if (!toc) return;
 
     var headings = [].slice.call(documentRef.body.querySelectorAll('h1, h2, h3'));
-    var units = {};
-
+    var currentList = toc;
+    var listStack = [{ level: 0, list: toc }];
+    
     headings.forEach(function (heading) {
         var level = parseInt(heading.tagName.substring(1));
         var headingId = heading.getAttribute('id');
@@ -34,37 +35,43 @@ function htmlTableOfContents(documentRef) {
         link.setAttribute('href', '#' + headingId);
         link.textContent = heading.textContent;
 
-        if (level === 1) {
-            // Create a new Unit section
-            units[heading.textContent] = {
-                summary: heading.textContent,
-                lessons: []
-            };
-        } else if (level === 2) {
-            // Add lesson links under the last Unit
-            let lastUnit = Object.keys(units).pop();
-            if (lastUnit) {
-                units[lastUnit].lessons.push(link);
-            }
+        var listItem = documentRef.createElement('li');
+        listItem.appendChild(link);
+
+        while (listStack.length > 0 && listStack[listStack.length - 1].level >= level) {
+            listStack.pop();
         }
-    });
 
-    // Build TOC
-    Object.values(units).forEach(unit => {
-        var details = documentRef.createElement('details');
-        var summary = documentRef.createElement('summary');
-        summary.textContent = unit.summary;
-        details.appendChild(summary);
+        if (listStack.length === 0) {
+            currentList = toc;
+        } else {
+            currentList = listStack[listStack.length - 1].list;
+        }
 
-        var lessonList = documentRef.createElement('ul');
-        unit.lessons.forEach(lesson => {
-            var listItem = documentRef.createElement('li');
-            listItem.appendChild(lesson);
-            lessonList.appendChild(listItem);
-        });
+        if (level === 3) {
+            // Find or create a <details> section for lessons
+            var lastListItem = currentList.lastElementChild;
+            if (!lastListItem || !lastListItem.querySelector("details")) {
+                var details = documentRef.createElement('details');
+                var summary = documentRef.createElement('summary');
+                summary.textContent = 'Lessons';
+                details.appendChild(summary);
+                var lessonList = documentRef.createElement('ol');
+                details.appendChild(lessonList);
 
-        details.appendChild(lessonList);
-        toc.appendChild(details);
+                var unitItem = documentRef.createElement('li');
+                unitItem.appendChild(details);
+                currentList.appendChild(unitItem);
+            }
+            // Append lesson link inside the details
+            currentList.lastElementChild.querySelector("ol").appendChild(listItem);
+        } else {
+            // Create a new list if needed
+            var newList = documentRef.createElement('ol');
+            listItem.appendChild(newList);
+            listStack.push({ level: level, list: newList });
+            currentList.appendChild(listItem);
+        }
     });
 }
 
@@ -73,6 +80,7 @@ try {
 } catch (e) {
     // module.exports is not defined
 }
+
 
   function addYTLinks(){
     document.querySelectorAll("a").forEach(link => {
