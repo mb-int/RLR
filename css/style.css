@@ -34,4 +34,15 @@ section {}
   --font-color: #333333;
   --font-family-sans: Lato, sans-serif;
   --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+
+  /*  padding utils */
+  .padding-min {
+      padding: 0.5rem 1rem;
+  }
+  .padding-med {
+      padding: 1rem 2rem;
+  }
+  .padding-max {      
+      padding: 1.5rem 3rem;  
+  }
 }
