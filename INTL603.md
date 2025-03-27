@@ -119,15 +119,15 @@ Students examine marketing practices in a dynamic global environment. In the mod
 
 ## **Unit 5:** Global Marketing and Brand Management
 
-## Lesson 1: Customer Value Proposition and Ethics
+### Lesson 1: Customer Value Proposition and Ethics
 
 1. [The Value Proposition](https://biz.libretexts.org/Courses/Prince_Georges_Community_College/BMK_2510%3A_Introduction_to_Marketing_%28Mosby%29/02%3A_Strategic_Planning/2.01%3A_The_Value_Proposition)
 
-## Lesson 2: Customer Analysis
+### Lesson 2: Customer Analysis
 
 1. [Marketing and the Marketing Process](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
-## Lesson 3: Customer Loyalty and Dynamic Marketing
+### Lesson 3: Customer Loyalty and Dynamic Marketing
 
 1. [How Marketing Benefits the Organization, Its Interested Parties, and Society](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
