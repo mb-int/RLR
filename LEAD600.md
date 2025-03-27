@@ -130,7 +130,7 @@ This document contains the required learning resources and references for the **
 ### **Lesson 5:** Leading Through Organisational Development (OD)
 
 1. Read [A Framework to Map a Practice as Organization Development](https://www.sciencedirect.com/science/article/pii/S2212567114001907) by Gohil & Deshpande (2014).
-2. Read [Understanding organisational development, sustainability, and diffusion of innovations within hospitals participating in a](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [multilevel quality collaborative](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) by Dückers et al. (2011).
+2. Read [Understanding organisational development, sustainability, and diffusion of innovations within hospitals participating in a multilevel quality collaborative](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) by Dückers et al. (2011).
 3. Read [Leadership for organisation development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development) by the Queensland Government (2022).
 4. Read [The Emergence of Value-Based Leadership Behavior at the Frontline of Management: A Role Theory Perspective and Future Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
 5. Read [Organizational innovation: a comprehensive model for catalyzing organizational development and change in a rapidly changing world](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) by Steiber & Alänge (2015).
@@ -145,22 +145,22 @@ This document contains the required learning resources and references for the **
     1. [Chapter 5: Ethical Leadership](https://milnepublishing.geneseo.edu/ethicsinlifeandvocation/chapter/chapter-5-ethical-leadership/)
 4. Read Business Ethics by Byars & Stanberry (2018).
     1. [Dan Bane, chairman and chief executive officer of Trader Joe’s](https://openstax.org/books/business-ethics/pages/b-profiles-in-business-ethics-contemporary-thought-leaders) Lesson 2: Leader Accountability and Corporate Social Responsibility (CSR)
-5. Read [How Corporate Social Responsibility Boosts Corporate](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) [Financial and Non-financial Performance: The Moderating Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) [of Ethical Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) by Bouichou et al. (2022).
-6. Read [Responsible Leadership Fuels Innovative Behavior: The](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) [Mediating Roles of Socially Responsible Human Resource](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) [Management and Organizational Pride](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) by Dong & Zhong (2021).
-7. Read [Corporate sustainability and responsibility: creating value](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) [for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
+5. Read [How Corporate Social Responsibility Boosts Corporate Financial and Non-financial Performance: The Moderating Role of Ethical Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) by Bouichou et al. (2022).
+6. Read [Responsible Leadership Fuels Innovative Behavior: The Mediating Roles of Socially Responsible Human Resource Management and Organizational Pride](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) by Dong & Zhong (2021).
+7. Read [Corporate sustainability and responsibility: creating value for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
 8. Read Business Ethics by Byars & Stanberry (2018).
     1. [3.4 Corporate Social Responsibility (CSR)](https://openstax.org/books/business-ethics/pages/3-4-corporate-social-responsibility-csr)
 9. Read [4 examples of corporate social responsibility done right](https://www.socialbrite.org/2010/04/22/4-examples-of-corporate-social-responsibility-done-right/) by Lasica (2010).
 
 ### **Lesson 3:** Contemporary Models of Ethical Leadership
 
-1. Review [Corporate sustainability and responsibility: creating](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) [value for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
-2. Read [The Anti-Egoist Perspective in Business Ethics and its Anti-](https://link.springer.com/article/10.1007/s40926-022-00202-7) [Business Manifestations](https://link.springer.com/article/10.1007/s40926-022-00202-7) by Svanberg & Svanberg (2022).
+1. Review [Corporate sustainability and responsibility: creating value for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
+2. Read [The Anti-Egoist Perspective in Business Ethics and its Anti- Business Manifestations](https://link.springer.com/article/10.1007/s40926-022-00202-7) by Svanberg & Svanberg (2022).
 
 ### **Lesson 4:** Ethical Decision-Making in Business
 
 1. Read Principles of Management by Bright et al. (2019).
-    1. [Chapter 2](https://openstax.org/books/principles-management/pages/2-introduction), with a focus on [2.5 Improving the Quality of](https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making) [Decision-Making](https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making)
+    1. [Chapter 2 Decision-Making](https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making)
 2. Read Business Ethics by Byars & Stanberry (2018).
     1. [Chapter 3](https://openstax.org/books/business-ethics/pages/3-introduction)
     2. [Chapter 4](https://openstax.org/books/business-ethics/pages/4-introduction)
@@ -168,9 +168,9 @@ This document contains the required learning resources and references for the **
 ### **Lesson 5:** Ethical Theories
 
 1. Read Entrepreneurship by Arthur et al. (2020).
-    1. [3.3 Developing a Workplace Culture of Ethical Excellence and](https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability) [Accountability](https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability)
+    1. [3.3 Developing a Workplace Culture of Ethical Excellence and Accountability](https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability)
 2. Read Introduction to Philosophy: Ethics by Matthews & Hendricks (2019).
-    1. [Aren’t Right and Wrong Just Matters of Opinion? On Moral](https://press.rebus.community/intro-to-phil-ethics/chapter/arent-right-and-wrong-just-matters-of-opinion-on-moral-relativism-and-subjectivism/) [Relativism and Subjectivism](https://press.rebus.community/intro-to-phil-ethics/chapter/arent-right-and-wrong-just-matters-of-opinion-on-moral-relativism-and-subjectivism/)
+    1. [Aren’t Right and Wrong Just Matters of Opinion? On Moral Relativism and Subjectivism](https://press.rebus.community/intro-to-phil-ethics/chapter/arent-right-and-wrong-just-matters-of-opinion-on-moral-relativism-and-subjectivism/)
     2. [What’s in it for Me? On Egoism and Social Contract Theory](https://press.rebus.community/intro-to-phil-ethics/chapter/whats-in-it-for-me-on-egoism-and-social-contract-theory/)
     3. [Utilitarianism](https://press.rebus.community/intro-to-phil-ethics/chapter/utilitarianism/)
     4. [Kantian Deontology](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/)
@@ -181,34 +181,34 @@ This document contains the required learning resources and references for the **
 
 ### **Lesson 1:** The Autocratic Leader
 
-1. Read [Authoritarian Leadership in Organizational Change and](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) [Employees’ Active Reactions: Have-to and Willing-to](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) [Perspectives](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) by Du et al. (2020).
-2. Read [Authoritarian leadership and task performance: the effects](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) [of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
-3. Read [How Authoritarian Leadership Affects Employee's Helping](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) [Behavior? The Mediating Role of Rumination and Moderating](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) [Role of Psychological Ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) by Asim et al. (2021).
-4. Read [The Impact of Autocratic and Democratic Leadership Style](https://www.ccsenet.org/journal/index.php/ibr/article/view/14599) [on Job Satisfaction](https://www.ccsenet.org/journal/index.php/ibr/article/view/14599) by Bhatti (2012).
+1. Read [Authoritarian Leadership in Organizational Change and Employees’ Active Reactions: Have-to and Willing-to Perspectives](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) by Du et al. (2020).
+2. Read [Authoritarian leadership and task performance: the effects of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
+3. Read [How Authoritarian Leadership Affects Employee's Helping Behavior? The Mediating Role of Rumination and Moderating Role of Psychological Ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) by Asim et al. (2021).
+4. Read [The Impact of Autocratic and Democratic Leadership Style on Job Satisfaction](https://www.ccsenet.org/journal/index.php/ibr/article/view/14599) by Bhatti (2012).
 
 ### **Lesson 2:** The Democratic Leader
 
-1. Read [Leadership Styles in Relation to Employees’ Trust and](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizational Change Capacity: Evidence From Non-Profit](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizations](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) by Yasir et al. (2016).
-2. Read [The Influence of Indirect Democracy and Leadership](https://link.springer.com/article/10.1007/s10683-022-09750-1) [Choice on Cooperation](https://link.springer.com/article/10.1007/s10683-022-09750-1) by Schories (2022).
+1. Read [Leadership Styles in Relation to Employees’ Trust and Organizational Change Capacity: Evidence From Non-Profit Organizations](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) by Yasir et al. (2016).
+2. Read [The Influence of Indirect Democracy and Leadership Choice on Cooperation](https://link.springer.com/article/10.1007/s10683-022-09750-1) by Schories (2022).
 3. Read [The Effect of Democratic Leadership Style on the Performance of Employees at PT. Medan Industry Area (Persero)](https://www.bircu-journal.com/index.php/birci/article/view/1474/pdf) by Andrysyah et al. (2020).
 4. Read [Democratic Leadership in Coalition Schools: Why It’s Necessary, How It Works](https://web.archive.org/web/20220625045726/http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/) by Davidson (2002).
 5. Read [The Effects of Leadership Styles on Team Motivation](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) by Al Rahbi et al. (2017).
 
 ### **Lesson 3:** The Laissez-Faire Leader
 
-1. Read [Main and interactive effects of weekly transformational](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) [and laissez-faire leadership on followers’ trust in the leader and](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) [leader effectiveness](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) by Breevaart & Zacher (2019).
-2. Read [Laissez-Faire Leadership and Affective Commitment: the](https://link.springer.com/article/10.1007/s10869-020-09700-9) [Roles of Leader-Member Exchange and Subordinate Relational](https://link.springer.com/article/10.1007/s10869-020-09700-9) [Self-concept](https://link.springer.com/article/10.1007/s10869-020-09700-9) by Robert & Vandenberghe (2021).
-3. Read [Impact of Laissez-Faire Leadership on Role Ambiguity and](https://researchleap.com/impact-laissez-faire-leadership-role-ambiguity-role-conflict-implications-job-performance/) [Role Conflict: Implications for Job Performance](https://researchleap.com/impact-laissez-faire-leadership-role-ambiguity-role-conflict-implications-job-performance/) by Al-Malki & Juan (2018).
-4. Read [High-Performance Work Practices and Interpersonal](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.854118/full) [Relationships: _Laissez-Faire_ Leadership as a Risk Factor](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.854118/full) by Salin et al. (2022).
-5. Read [Laissez-Faire Leadership Positively Impacts Organisational](https://www.journalijar.com/uploads/5f854e47099f3_IJAR-33671.pdf) [Commitment in Healthcare Centres In Qatar](https://www.journalijar.com/uploads/5f854e47099f3_IJAR-33671.pdf) by Alshamari (2020).
+1. Read [Main and interactive effects of weekly transformational and laissez-faire leadership on followers’ trust in the leader and leader effectiveness](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) by Breevaart & Zacher (2019).
+2. Read [Laissez-Faire Leadership and Affective Commitment: the Roles of Leader-Member Exchange and Subordinate Relational Self-concept](https://link.springer.com/article/10.1007/s10869-020-09700-9) by Robert & Vandenberghe (2021).
+3. Read [Impact of Laissez-Faire Leadership on Role Ambiguity and Role Conflict: Implications for Job Performance](https://researchleap.com/impact-laissez-faire-leadership-role-ambiguity-role-conflict-implications-job-performance/) by Al-Malki & Juan (2018).
+4. Read [High-Performance Work Practices and Interpersonal Relationships: _Laissez-Faire_ Leadership as a Risk Factor](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.854118/full) by Salin et al. (2022).
+5. Read [Laissez-Faire Leadership Positively Impacts Organisational Commitment in Healthcare Centres In Qatar](https://www.journalijar.com/uploads/5f854e47099f3_IJAR-33671.pdf) by Alshamari (2020).
 
 ### **Lesson 4:** The Transformational, Transactional, and Servant Leader
 
 1. Read [Impact of Leadership Styles on Organizational Performance](https://ibimapublishing.com/articles/JHRMR/2018/687849/) by Al Khajeh (2018).
-2. Read [The Effect of Transformational Leadership, Servant](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) [Leadership, and Organizational Learning on Manufacturing](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) [Industry Performance](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) by Goestjahjanti et al. (2022).
-3. Read [Transformational and Transactional Leadership in the](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.908594/full) [Polish Organizational Context: Validation of the Full and Short](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.908594/full) [Forms of the Multifactor Leadership Questionnaire](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.908594/full) by Bajcar & Babiak (2022).
-4. Read [Linking Transformational and Servant Leadership to](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) [Employee Creativity: The Mediating Role of Thriving At Work](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) by Wulansari et al. (2021).
-5. Read [The Role of Transformational and Transactional Leadership](https://www.mdpi.com/2071-1050/13/3/1411/htm) [Approaches on Environmental and Ethical Aspects of CSR](https://www.mdpi.com/2071-1050/13/3/1411/htm) by Changar & Atan (2020).
+2. Read [The Effect of Transformational Leadership, Servant Leadership, and Organizational Learning on Manufacturing Industry Performance](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) by Goestjahjanti et al. (2022).
+3. Read [Transformational and Transactional Leadership in the Polish Organizational Context: Validation of the Full and Short Forms of the Multifactor Leadership Questionnaire](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.908594/full) by Bajcar & Babiak (2022).
+4. Read [Linking Transformational and Servant Leadership to Employee Creativity: The Mediating Role of Thriving At Work](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) by Wulansari et al. (2021).
+5. Read [The Role of Transformational and Transactional Leadership Approaches on Environmental and Ethical Aspects of CSR](https://www.mdpi.com/2071-1050/13/3/1411/htm) by Changar & Atan (2020).
 6. Read Principles of Management by Lumen Learning (n.d.).
     1. [All subsections in Module 10: Leadership](https://courses.lumenlearning.com/wm-principlesofmanagement/)
 
@@ -270,7 +270,7 @@ Asim, M., Zhiying, L., Nadeem, M. A., Ghani, U., Arshad, M., & Yi, X. (2021, Sep
 
 Aslam, S., Saleem, A., Kumar, T., & Parveen, K. (2022). New normal: Emergence of situational leadership during COVID-19 and its impact on work motivation and job satisfaction. _Frontiers in Psychology,_
 
-1. [https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/f](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) [ull](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full)
+1. [https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/f ull](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full)
 
 Auvinen, E., Huhtala, M., Rantanen, J., & Feldt, T. (2021). Drivers or drifters?
 
@@ -284,7 +284,7 @@ Bajaba, A., Bajaba, S., Algarni, M., Basahal, A., & Basahel, S. (2021). Adaptive
 
 Bajcar, B., & Babiak, J. (2022, May 12). Transformational and transactional leadership in the polish organizational context: Validation of the full and short forms of the multifactor leadership questionnaire. _Frontiers in Psychology, 13_. <https://doi.org/10.3389/fpsyg.2022.908594>
 
-Beheshti, N. (2019, January 16). _10 timely statistics about the connection between employee engagement and wellness_. Forbes. [https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely-](https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely-statistics-about-the-connection-between-employee-engagement-and-wellness/?sh=3599284022a0) [statistics-about-the-connection-between-employee-engagement-and-](https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely-statistics-about-the-connection-between-employee-engagement-and-wellness/?sh=3599284022a0) [wellness/?sh=3599284022a0](https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely-statistics-about-the-connection-between-employee-engagement-and-wellness/?sh=3599284022a0)
+Beheshti, N. (2019, January 16). _10 timely statistics about the connection between employee engagement and wellness_. Forbes. [https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely- statistics-about-the-connection-between-employee-engagement-and- wellness/?sh=3599284022a0](https://www.forbes.com/sites/nazbeheshti/2019/01/16/10-timely-statistics-about-the-connection-between-employee-engagement-and-wellness/?sh=3599284022a0)
 
 Bhatti, N., Maitlo, G. M., Shaikh, N., Hashmi, M. A., & Shaikh, F. M. (2012, January 29). The impact of autocratic and democratic leadership style on job satisfaction. _International Business Research,_
 
@@ -292,7 +292,7 @@ _5_(2). <https://doi.org/10.5539/ibr.v5n2p192>
 
 Black, S., M., Bright, D. S., Gardner, D. G., Pierce, J. L., & Steers, R. M. (2019). _Organizational_
 
-_behavior._ Openstax. [https://openstax.org/details/books/organizational-](https://openstax.org/details/books/organizational-behavior) [behavior](https://openstax.org/details/books/organizational-behavior)
+_behavior._ Openstax. [https://openstax.org/details/books/organizational- behavior](https://openstax.org/details/books/organizational-behavior)
 
 Blair, C. A., Palmieri, R. E., & Paz-Aparicio, C. (2018). Do big 5 personality characteristics and narcissism predict engagement in leader development? _Frontiers in Psychology,_
 
@@ -310,7 +310,7 @@ Openstax. [https://openstax.org/details/books/principles-management](https://ope
 
 Burger, D. H., Crous, F., & Roodt, G. (2012). Exploring a model for finding meaning in the changing world of work. _SA Journal of Industrial Psychology, 38_(1). <https://doi.org/10.4102/sajip.v39i2.1022>
 
-Braduţanu, D. (2012). A reducing resistance to change model. _Acta Universitatis Danubius. Œconomica, 11_(5). [https://journals.univ-](https://journals.univ-danubius.ro/index.php/oeconomica/article/view/2896/html) [danubius.ro/index.php/oeconomica/article/view/2896/html](https://journals.univ-danubius.ro/index.php/oeconomica/article/view/2896/html)
+Braduţanu, D. (2012). A reducing resistance to change model. _Acta Universitatis Danubius. Œconomica, 11_(5). [https://journals.univ- danubius.ro/index.php/oeconomica/article/view/2896/html](https://journals.univ-danubius.ro/index.php/oeconomica/article/view/2896/html)
 
 Byars, S. M., Stanberry, K. (2018). _Business ethics_.
 
@@ -334,17 +334,17 @@ Collins, J. (2001). _Good to great: Why some companies make the leap and others 
 
 Cullen, S. (n.d.). The Myers-Briggs Leader: 16 Different Leadership Types.
 
-Retrieved September 25, 2022, from [https://www.nexalearning.com/blog/the-myers-briggs-leader-16-](https://www.nexalearning.com/blog/the-myers-briggs-leader-16-different-leadership-types) [different-leadership-types](https://www.nexalearning.com/blog/the-myers-briggs-leader-16-different-leadership-types)
+Retrieved September 25, 2022, from [https://www.nexalearning.com/blog/the-myers-briggs-leader-16- different-leadership-types](https://www.nexalearning.com/blog/the-myers-briggs-leader-16-different-leadership-types)
 
 Davidson, J. (2002). _Democratic leadership in coalition schools: Why it’s necessary, how it works._ Essential
 
-Schools. [http://essentialschools.org/horace-issues/democratic-](http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/) [leadership-in-coalition-schools-why-its-necessary-how-it-works/](http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/)
+Schools. [http://essentialschools.org/horace-issues/democratic- leadership-in-coalition-schools-why-its-necessary-how-it-works/](http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/)
 
 Demont-Biaggi, F. (2019, September). How ethical leadership is related to authenticity. _Leadership, Education, Personality: An Interdisciplinary Journal, 1_(1–2), 15–28. <https://doi.org/10.1365/s42681-020-00006-1>
 
 Dobre, O. I. (2013). Employee motivation and organizational performance.
 
-_Review of Applied Socio-Economic Research, 5_(1), 53–60. [https://econpapers.repec.org/article/rsewpaper/v_3a5_3ay_3a2013_3](https://econpapers.repec.org/article/rsewpaper/v_3a5_3ay_3a2013_3ai_3a1_3ap_3a53-60.htm) [ai_3a1_3ap_3a53-60.htm](https://econpapers.repec.org/article/rsewpaper/v_3a5_3ay_3a2013_3ai_3a1_3ap_3a53-60.htm)
+_Review of Applied Socio-Economic Research, 5_(1), 53–60. [https://econpapers.repec.org/article/rsewpaper/v_3a5_3ay_3a2013_3 ai_3a1_3ap_3a53-60.htm](https://econpapers.repec.org/article/rsewpaper/v_3a5_3ay_3a2013_3ai_3a1_3ap_3a53-60.htm)
 
 Donal Daly. (2018, January 30). _Marc Benioff at Davos on trust_ \[Video\].
 
@@ -366,7 +366,7 @@ _6_(1). <https://doi.org/10.1186/1748-5908-6-18>
 
 Duraku, Z., & Hoxha, L. (2021). Impact of transformational and transactional attributes of school principal leadership on teachers’ motivation for work. _Frontiers in Education,_
 
-_6\._ [https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/f](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full) [ull](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full)
+_6\._ [https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/f ull](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full)
 
 Errida, A., & Lotfi, B. (2021, January 1). The determinants of organizational change management success: Literature review and case
 
@@ -382,11 +382,11 @@ Folta, S. C., Seguin, R. A., Ackerman, J., & Nelson, M. E. (2012). A qualitative
 
 French, J. R. P., Jr., & Raven, B. H. (1959). The bases of social power. In _D. Cartwright (Ed.), Studies in social power_ (pp. 150–167). University of Michigan.
 
-[https://www.researchgate.net/publication/215915730_The_bases_of_](https://www.researchgate.net/publication/215915730_The_bases_of_social_power) [social_power](https://www.researchgate.net/publication/215915730_The_bases_of_social_power)
+[https://www.researchgate.net/publication/215915730_The_bases_of_ social_power](https://www.researchgate.net/publication/215915730_The_bases_of_social_power)
 
 Gitman, L., McDaniel, C., Shah, A., Reece, M., Koffel, L., Talsma, B., & Hyatt, J. (2018). _Introduction to_
 
-_business._ OpenStax. [https://openstax.org/details/books/introduction-](https://openstax.org/details/books/introduction-business) [business](https://openstax.org/details/books/introduction-business)
+_business._ OpenStax. [https://openstax.org/details/books/introduction- business](https://openstax.org/details/books/introduction-business)
 
 Goestjahjanti, F. S., Pasaribu, S. B., Sadewo, T. I., Srinita, S., Meirobie, I., & Irawan, A. P. (2022, May 9). The effect of transformational leadership, servant leadership, and organizational learning on manufacturing industry performance. _Frontiers in Psychology,_
 
@@ -398,17 +398,17 @@ Gohil, S., & Deshpande, P. (2014). A framework to map a practice as organization
 
 Gupta, R. (2021). Leadership in practice-contemporary view. _Journal of Organizational Culture, Communications and_
 
-_Conflict._ [https://www.abacademies.org/articles/leadership-in-](https://www.abacademies.org/articles/leadership-in-practicecontemporary-view-12727.html) [practicecontemporary-view-12727.html](https://www.abacademies.org/articles/leadership-in-practicecontemporary-view-12727.html)
+_Conflict._ [https://www.abacademies.org/articles/leadership-in- practicecontemporary-view-12727.html](https://www.abacademies.org/articles/leadership-in-practicecontemporary-view-12727.html)
 
 Hao, M. J., & Yazdanifard, R. (2015). How effective leadership can facilitate change in organizations through improvement and innovation. _Global Journal of Management and Business Research: Administration and_
 
 _Management, 15_(9), 1–
 
-7\. [https://globaljournals.org/GJMBR_Volume15/1-How-Effective-](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) [Leadership.pdf](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf)
+7\. [https://globaljournals.org/GJMBR_Volume15/1-How-Effective- Leadership.pdf](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf)
 
 Hejres, S., Braganza, A., & Eldabi, T. (2017). The impact of acceptance of leader criteria on instructional leadership. _Educational Research_
 
-_Application_. [https://www.gavinpublishers.com/article/view/the-impact-](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) [of-acceptance-of-leader-criteria-on-instructional-leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership)
+_Application_. [https://www.gavinpublishers.com/article/view/the-impact- of-acceptance-of-leader-criteria-on-instructional-leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership)
 
 Helfrich, C. D., Kohn, M., Stapleton, A., Allen, C. S., Hammerback, K., Chan, K. M., Parrish, A. T., Ryan, D., Weiner, B. J., Harris, J. R., & Hannon, P. A.
 
@@ -424,7 +424,7 @@ Icfai Business School. (n.d.). O_rganizational behavior._ Icfai Business School 
 
 Inderjeet, A., & Scheepers, C. B. (2022). The influence of follower orientation on follower behaviour in the leadership process. _SA Journal of Human Resource Management, 20_. <https://doi.org/10.4102/sajhrm.v20i0.1718>
 
-Ingrid, H. (2018). What are the characteristics of effective leaders? _University of Stavanger._ [https://uis.brage.unit.no/uis-](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186) [xmlui/handle/11250/2563186](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186)
+Ingrid, H. (2018). What are the characteristics of effective leaders? _University of Stavanger._ [https://uis.brage.unit.no/uis- xmlui/handle/11250/2563186](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186)
 
 Issah, M. (2018). Change leadership: The role of emotional intelligence. SAGE Open, 2018, 1–6.
 
@@ -454,19 +454,19 @@ _Information and Management, 4_(1), 1–
 
 Lasica, J. D. (2013, September 15). _4 examples of corporate social responsibility done right_. Socialbrite. Retrieved September 15, 2022,
 
-from [https://www.socialbrite.org/2010/04/22/4-examples-of-](https://www.socialbrite.org/2010/04/22/4-examples-of-corporate-social-responsibility-done-right/) [corporate-social-responsibility-done-right/](https://www.socialbrite.org/2010/04/22/4-examples-of-corporate-social-responsibility-done-right/)
+from [https://www.socialbrite.org/2010/04/22/4-examples-of- corporate-social-responsibility-done-right/](https://www.socialbrite.org/2010/04/22/4-examples-of-corporate-social-responsibility-done-right/)
 
 Lu, H., & Li, F. (2021). The dual effect of transformational leadership on individual- and Team-Level performance: The mediational roles of motivational processes. _Frontiers in Psychology,_
 
 1. <https://doi.org/10.3389/fpsyg.2021.606066>
 
-Lumen Learning. (n.d.). _Principles of management._ OER Services. [https://courses.lumenlearning.com/suny-](https://courses.lumenlearning.com/suny-principlesmanagement/) [principlesmanagement/](https://courses.lumenlearning.com/suny-principlesmanagement/)
+Lumen Learning. (n.d.). _Principles of management._ OER Services. [https://courses.lumenlearning.com/suny- principlesmanagement/](https://courses.lumenlearning.com/suny-principlesmanagement/)
 
 Lumen Learning. (n.d.). _Principles of_
 
-_management._ [https://courses.lumenlearning.com/wm-](https://courses.lumenlearning.com/wm-principlesofmanagement) [principlesofmanagement](https://courses.lumenlearning.com/wm-principlesofmanagement)
+_management._ [https://courses.lumenlearning.com/wm- principlesofmanagement](https://courses.lumenlearning.com/wm-principlesofmanagement)
 
-Malhotra, K. (2018). Role of effective leadership in change management. _IJERT, 1_(02). [https://www.ijert.org/role-of-effective-](https://www.ijert.org/role-of-effective-leadership-in-change-management) [leadership-in-change-management](https://www.ijert.org/role-of-effective-leadership-in-change-management)
+Malhotra, K. (2018). Role of effective leadership in change management. _IJERT, 1_(02). [https://www.ijert.org/role-of-effective- leadership-in-change-management](https://www.ijert.org/role-of-effective-leadership-in-change-management)
 
 Matthews, G., & Hendricks, C. (2019). _Introduction to philosophy: Ethics_. Rebus Community. <https://press.rebus.community/intro-to-phil-ethics/>
 
@@ -480,7 +480,7 @@ Merriam-Webster. (n.d.). Autocratic. In _Merriam-_
 
 _Webster.com._ <https://www.merriam-webster.com/dictionary/autocratic>
 
-Merriam-Webster. (n.d.). Democratic. In _Merriam- Webster.com._ [https://www.merriam-](https://www.merriam-webster.com/dictionary/democratic) [webster.com/dictionary/democratic](https://www.merriam-webster.com/dictionary/democratic)
+Merriam-Webster. (n.d.). Democratic. In _Merriam- Webster.com._ [https://www.merriam- webster.com/dictionary/democratic](https://www.merriam-webster.com/dictionary/democratic)
 
 Merriam-Webster. (n.d.). Laissez-faire. In _Merriam-Webster.com._
 
@@ -490,7 +490,7 @@ _Neojungian typology’s free personality test._ (n.d.). Neojungian Typology | T
 
 Odiaga, J., Guglielmo, M., Catrambone, C., Gierlowski, T., Bruti, C., Richter, L., & M, J. (2021). Kotter’s change model in higher education: Transforming siloed education to a culture of interprofessionalism.
 
-_Journal of Organizational Culture, Communications and Conflict, 25_(2). [https://www.abacademies.org/articles/kotters-change-model-in-](https://www.abacademies.org/articles/kotters-change-model-in-higher-education-transforming-siloed-education-to-a-culture-of-interprofessionalism-10343.html) [higher-education-transforming-siloed-education-to-a-culture-of-](https://www.abacademies.org/articles/kotters-change-model-in-higher-education-transforming-siloed-education-to-a-culture-of-interprofessionalism-10343.html) [interprofessionalism-10343.html](https://www.abacademies.org/articles/kotters-change-model-in-higher-education-transforming-siloed-education-to-a-culture-of-interprofessionalism-10343.html)
+_Journal of Organizational Culture, Communications and Conflict, 25_(2). [https://www.abacademies.org/articles/kotters-change-model-in- higher-education-transforming-siloed-education-to-a-culture-of- interprofessionalism-10343.html](https://www.abacademies.org/articles/kotters-change-model-in-higher-education-transforming-siloed-education-to-a-culture-of-interprofessionalism-10343.html)
 
 Paloş, R., Vîrgă, D., & Craşovan, M. (2022, January 24). Resistance to change as a mediator between conscientiousness and teachers’ job satisfaction. The moderating role of learning goals orientation. _Frontiers in Psychology, 12_. <https://doi.org/10.3389/fpsyg.2021.757681>
 
@@ -500,11 +500,11 @@ _9\._ <https://doi.org/10.3389/fpsyg.2018.02620>
 
 Queensland Government. (2022, July 1). _Leadership for organisation_
 
-_development._ For Government | Queensland Government. Retrieved September 6, 2022, from [https://www.forgov.qld.gov.au/news-events-](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development) [and-consultation/news/leadership-for-organisation-development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development)
+_development._ For Government | Queensland Government. Retrieved September 6, 2022, from [https://www.forgov.qld.gov.au/news-events- and-consultation/news/leadership-for-organisation-development](https://www.forgov.qld.gov.au/news-events-and-consultation/news/leadership-for-organisation-development)
 
 Rahbi, D., Khalid, K., & Khan, M. (2017). The effects of leadership styles on team motivation. _Academy of Strategic Management_
 
-_Journal._ [https://www.abacademies.org/articles/the-effects-of-](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) [leadership-styles-on-team-motivation-6793.html](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html)
+_Journal._ [https://www.abacademies.org/articles/the-effects-of- leadership-styles-on-team-motivation-6793.html](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html)
 
 Rehman, N., Mahmood, A., Ibtasam, M., Murtaza, S. A., Iqbal, N., & Molnár, E. (2021, August 2). The psychology of resistance to change: The antidotal effect of organizational justice, support and Leader-_Member exchange._
 
@@ -514,7 +514,7 @@ Reinholz, D. L., & Andrews, T. C. (2020, January 17). Change theory and theory o
 
 Resnik, D. B. (2020, December 23). What is ethics in research & why is it important? National Institute of Environmental Health
 
-Sciences. [https://www.niehs.nih.gov/research/resources/bioethics/wha](https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm) [tis/index.cfm](https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm)
+Sciences. [https://www.niehs.nih.gov/research/resources/bioethics/wha tis/index.cfm](https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm)
 
 Robert, V., & Vandenberghe, C. (2020, June 26). Laissez-Faire leadership and affective commitment: The roles of Leader-Member exchange and subordinate relational self-concept. _Journal of Business and Psychology, 36_(4), 533–551. <https://doi.org/10.1007/s10869-020-09700-9>
 
@@ -566,7 +566,7 @@ Su, W., Lyu, B., Chen, H., & Zhang, Y. (2020). How does servant leadership influ
 
 _Management, 15_(4), 571–
 
-585\. [https://www.emerald.com/insight/content/doi/10.1108/BJM-09-](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [2019-0335/full/html](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html)
+585\. [https://www.emerald.com/insight/content/doi/10.1108/BJM-09- 2019-0335/full/html](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html)
 
 Svanberg, M. K., & Svanberg, C. F. C. (2022, June 8). The Anti-Egoist perspective in business ethics and its Anti-Business manifestations. _Philosophy of_
 
@@ -592,7 +592,7 @@ e0197599. <https://doi.org/10.1371/journal.pone.0197599>
 
 Viñuales, D. (2020, August 11). _Leadership Styles: Which ones define_
 
-_you?_ $\_DV. [https://www.davidvinuales.com/2020/08/11/leadership-](https://www.davidvinuales.com/2020/08/11/leadership-styles-which-ones-define-you/) [styles-which-ones-define-you/](https://www.davidvinuales.com/2020/08/11/leadership-styles-which-ones-define-you/)
+_you?_ $\_DV. [https://www.davidvinuales.com/2020/08/11/leadership- styles-which-ones-define-you/](https://www.davidvinuales.com/2020/08/11/leadership-styles-which-ones-define-you/)
 
 Vo, T. T. D., Tuliao, K. V., & Chen, C. W. (2022). Work motivation: The roles of individual needs and social conditions. _Behavioral Sciences, 12_(2),
 
@@ -602,22 +602,22 @@ Wang, Z., Liu, Y., & Liu, S. (2019). Authoritarian leadership and task performan
 
 - 1. <https://doi.org/10.1186/s11782-019-0066-x>
 
-Weiner, B. J. (2009, October 19). A theory of organizational readiness for change. _Implementation Science, 4_(1). [https://doi.org/10.1186/1748-](https://doi.org/10.1186/1748-5908-4-67) [5908-4-67](https://doi.org/10.1186/1748-5908-4-67)
+Weiner, B. J. (2009, October 19). A theory of organizational readiness for change. _Implementation Science, 4_(1). [https://doi.org/10.1186/1748- 5908-4-67](https://doi.org/10.1186/1748-5908-4-67)
 
 Whitman, M. (n.d.). _Drink, swear, steal, and lie: Leadership in four easy_
 
-_steps._ [https://milnepublishing.geneseo.edu/drinkswearstealandlieleade](https://milnepublishing.geneseo.edu/drinkswearstealandlieleadershipinfoureasysteps/) [rshipinfoureasysteps/](https://milnepublishing.geneseo.edu/drinkswearstealandlieleadershipinfoureasysteps/)
+_steps._ [https://milnepublishing.geneseo.edu/drinkswearstealandlieleade rshipinfoureasysteps/](https://milnepublishing.geneseo.edu/drinkswearstealandlieleadershipinfoureasysteps/)
 
 Whitman, M. (n.d.). _Ethics in life and vocation_.
 
-Pressbooks. [https://milnepublishing.geneseo.edu/ethicsinlifeandvocati](https://milnepublishing.geneseo.edu/ethicsinlifeandvocation/) [on/](https://milnepublishing.geneseo.edu/ethicsinlifeandvocation/)
+Pressbooks. [https://milnepublishing.geneseo.edu/ethicsinlifeandvocati on/](https://milnepublishing.geneseo.edu/ethicsinlifeandvocation/)
 
 Wisc-Online. (2019, June 4). _Distinguishing Leadership and Management Activities_ \[Video\].
 
-YouTube. [https://www.youtube.com/watch?v=KGlv8iHAdeo&feature=](https://www.youtube.com/watch?v=KGlv8iHAdeo&feature=youtu.be) [youtu.be](https://www.youtube.com/watch?v=KGlv8iHAdeo&feature=youtu.be)
+YouTube. [https://www.youtube.com/watch?v=KGlv8iHAdeo&feature= youtu.be](https://www.youtube.com/watch?v=KGlv8iHAdeo&feature=youtu.be)
 
 Wulansari, N., Kusuma, B., & Elianto, W. (2021). Linking transformational and servant leadership to employee creativity: The mediating role of thriving at work. _Academy of Entrepreneurship Journal,_
 
-_27_(5). [https://www.abacademies.org/articles/linking-transformational-](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) [and-servant-leadership-to-employee-creativity-the-mediating-role-of-](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) [thriving-at-work-12487.html](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html)
+_27_(5). [https://www.abacademies.org/articles/linking-transformational- and-servant-leadership-to-employee-creativity-the-mediating-role-of- thriving-at-work-12487.html](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html)
 
 Yasir, M., Imran, R., Irshad, M. K., Mohamad, N. A., & Khan, M. M. (2016, October). Leadership styles in relation to employees’ trust and organizational change capacity. _SAGE Open, 6_(4), 215824401667539. <https://doi.org/10.1177/2158244016675396>
