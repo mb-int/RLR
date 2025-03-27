@@ -188,7 +188,7 @@ This document contains the required learning resources and references for the **
 
 1. Read [Leadership Styles in Relation to Employees’ Trust and](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizational Change Capacity: Evidence From Non-Profit](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizations](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) by Yasir et al. (2016).
 2. Read [The Influence of Indirect Democracy and Leadership](https://link.springer.com/article/10.1007/s10683-022-09750-1) [Choice on Cooperation](https://link.springer.com/article/10.1007/s10683-022-09750-1) by Schories (2022).
-3. Read [The Effect of Democratic Leadership Style on the](https://www.bircu-journal.com/index.php/birci/article/view/1474/pdf) [Performance of Employees at PT. Medan Industry Area (Persero)](https://www.bircu-journal.com/index.php/birci/article/view/1474/pdf) by Andrysyah et al. (2020).
+3. Read [The Effect of Democratic Leadership Style on the Performance of Employees at PT. Medan Industry Area (Persero)](https://www.bircu-journal.com/index.php/birci/article/view/1474/pdf) by Andrysyah et al. (2020).
 4. Read [Democratic Leadership in Coalition Schools: Why It’s Necessary, How It Works](https://web.archive.org/web/20220625045726/http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/) by Davidson (2002).
 5. Read [The Effects of Leadership Styles on Team Motivation](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) by Al Rahbi et al. (2017).
 
