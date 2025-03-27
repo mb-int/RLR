@@ -5,9 +5,11 @@
   }
 ol#toc {
     list-style-type: none;
+        padding-inline-start: 0;
 }
 ol#toc ol {
     list-style-type: none;
+        padding-inline-start: 1.5rem;
 }
 aside {
     position: sticky;
