@@ -40,7 +40,7 @@ function htmlTableOfContents(documentRef) {
 
         var newList;
         if (listStack.length === 0 || listStack[listStack.length - 1].level < level) {
-            newList = documentRef.createElement('ul');
+            newList = documentRef.createElement('ol');
             listItem.appendChild(newList);
             listStack.push({ level: level, list: newList });
         }
