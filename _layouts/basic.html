@@ -12,13 +12,8 @@
 
     <h1>{{ page.title }}</h1>
 
-<div class="row">
-  <div class="col-12 col-9-md col-8-lg">
-    <section id="content">
-      {{ content }}
-    </section>
-  </div>
-  <div class="no-print col-12 col-3-md col-4-lg">
+<div class="row reverse">
+  <div class="no-print col col-12 col-3-md col-4-lg">
     <aside class="card">
         <strong class="is-center">Contents</strong>
         <hr/>
@@ -27,6 +22,12 @@
         <a href="#" onclick="javascript:window.print();" class="button outline primary" style="width:100%;">EXPORT</a>
     </aside>
   </div>  
+  <div class="col col-12 col-9-md col-8-lg">
+    <section id="content">
+      {{ content }}
+    </section>
+  </div>
+  
    
  {% include footer.html %}
   </body>
