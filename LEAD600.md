@@ -15,69 +15,69 @@ This document contains the required learning resources and references for the **
 1. Read Organizational Behavior by Black et al. (2019).
     1. [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introduction)
 2. Read [Drivers or Drifters? The “Who” and “Why” of Leader Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) [Occupancy—A Mixed-Method Study](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) by Auvinen et al. (2021).
-3. Read [The Emergence of Value-Based Leadership Behavior at the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
-4. Read [The Impact of Acceptance of Leader criteria on](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) [Instructional Leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) by Hejres et al. (2017).
+3. Read [The Emergence of Value-Based Leadership Behavior at the Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
+4. Read [The Impact of Acceptance of Leader criteria on Instructional Leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) by Hejres et al. (2017).
 5. Watch [Distinguishing Leadership and Management Activities](https://www.youtube.com/watch?v=KGlv8iHAdeo) by Wisc-Online (2019).
 
 ### **Lesson 2:** Characteristics of Effective Leaders
 
 1. Read [Role of Leadership Behaviour in Organizational Culture and Job](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) by Semordzi (2018).
 2. Read [A qualitative study of leadership characteristics among women who catalyze positive community change](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) by Folta et al. (2012).
-3. Read [Do Big 5 Personality Characteristics and Narcissism Predict](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01817/full) [Engagement in Leader Development?](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01817/full) by Blair et al. (2018).
+3. Read [Do Big 5 Personality Characteristics and Narcissism Predict Engagement in Leader Development?](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01817/full) by Blair et al. (2018).
 4. Read [What are the characteristics of effective leaders?](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186) by Ingrid (2018).
-5. Read [Leadership style and leadership effectiveness: Does](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) [cultural intelligence moderate the relationship?](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) by Solomon & Steyn (2017).
+5. Read [Leadership style and leadership effectiveness: Does cultural intelligence moderate the relationship?](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) by Solomon & Steyn (2017).
 6. Read BUS401: Management Leadership by Saylor Academy (n.d.).
     1. [Unit 2: Leadership Traits](https://learn.saylor.org/mod/page/view.php?id=12921)
 
 ### **Lesson 3:** Leadership Theories and Their Application
 
-1. Read [Authoritarian leadership and task performance: the effects](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) [of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
+1. Read [Authoritarian leadership and task performance: the effects of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
 2. Read [Rethinking Leadership Theories](https://www.researchgate.net/publication/323853843_Rethinking_Leadership_Theories) by Mango (2018).
 3. Read [Leadership Theories: Application in the University Setting](https://techniumscience.com/index.php/socialsciences/article/view/6184) by Alajmi (2022).
-4. Read [Impact of transformational leadership on work](https://fbj.springeropen.com/articles/10.1186/s43093-020-00043-8) [performance, burnout and social loafing: a mediation model](https://fbj.springeropen.com/articles/10.1186/s43093-020-00043-8) by Khan et al. (2020).
+4. Read [Impact of transformational leadership on work performance, burnout and social loafing: a mediation model](https://fbj.springeropen.com/articles/10.1186/s43093-020-00043-8) by Khan et al. (2020).
 
 ### **Lesson 4:** Leadership Versus Management
 
-1. Read [How does servant leadership influence employees' service](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [innovative behavior? The roles of intrinsic motivation and](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
-2. Read [Adaptive Managers as Emerging Leaders During the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.661628/full) [COVID-19 Crisis](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.661628/full) by Bajaba (2021).
+1. Read [How does servant leadership influence employees' service innovative behavior? The roles of intrinsic motivation and identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
+2. Read [Adaptive Managers as Emerging Leaders During the COVID-19 Crisis](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.661628/full) by Bajaba (2021).
 3. Read [GOOGLE: a reflection of culture, leader, and management](https://jcsr.springeropen.com/articles/10.1186/s40991-017-0021-0) by Tran (2017).
 4. Read [Leadership in Practice-Contemporary View](https://www.abacademies.org/articles/leadership-in-practicecontemporary-view-12727.html) by Gupta (2021).
 
 ### **Lesson 5:** Leadership and Followership
 
 1. Read [Leadership styles: Which ones define you?](https://davidvinuales.com/2020/08/11/leadership-styles-which-ones-define-you/) by Viñuales (2020).
-2. Read [Reverse the Lens, Set Focus on the Followers: A Theoretical](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) [Framework of Resource Dependence, Upward Influence, and](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) [Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) by Tripathi (2021).
-3. Read [Examining the Relationship Between Leaders' Power Use,](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) [Followers' Motivational Outlooks, and Followers' Work](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) [Intentions](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) by Peyton et al. (2019).
-4. Read [The influence of follower orientation on follower behaviour](https://sajhrm.co.za/index.php/sajhrm/article/view/1718/2851) [in the leadership process](https://sajhrm.co.za/index.php/sajhrm/article/view/1718/2851) by Inderjeet & Scheepers (2022).
+2. Read [Reverse the Lens, Set Focus on the Followers: A Theoretical Framework of Resource Dependence, Upward Influence, and Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) by Tripathi (2021).
+3. Read [Examining the Relationship Between Leaders' Power Use, Followers' Motivational Outlooks, and Followers' Work Intentions](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) by Peyton et al. (2019).
+4. Read [The influence of follower orientation on follower behaviour in the leadership process](https://sajhrm.co.za/index.php/sajhrm/article/view/1718/2851) by Inderjeet & Scheepers (2022).
 
 ## **Unit 2:** The Motivational Leader
 
 ### **Lesson 1:** The Power of Motivation
 
-1. Read [The motivational potential of meaningful work:](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) [Relationships with strengths use, work engagement, and](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) [performance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) by Van Wingerden & Van der Stoep (2018).
-2. Read [Toxic Leadership and Empowering Leadership: Relations](https://www.dovepress.com/toxic-leadership-and-empowering-leadership-relations-with-work-motivat-peer-reviewed-fulltext-article-PRBM) [with Work Motivation](https://www.dovepress.com/toxic-leadership-and-empowering-leadership-relations-with-work-motivat-peer-reviewed-fulltext-article-PRBM) by Semedo et al. (2022).
-3. Read [Impact of Transformational and Transactional Attributes of](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full) [School Principal Leadership on Teachers’ Motivation for Work](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full) by Duraku & Hoxha (2021).
-4. Read [New Normal: Emergence of Situational Leadership During](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) [COVID-19 and Its Impact on Work Motivation and Job](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) [Satisfaction](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) by Aslam et al. (2022).
-5. Read [Leader autonomy support in the workplace: A meta-](https://link.springer.com/article/10.1007/s11031-018-9698-y) [analytic review](https://link.springer.com/article/10.1007/s11031-018-9698-y) by Slemp et al. (2018).
+1. Read [The motivational potential of meaningful work: Relationships with strengths use, work engagement, and performance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) by Van Wingerden & Van der Stoep (2018).
+2. Read [Toxic Leadership and Empowering Leadership: Relations with Work Motivation](https://www.dovepress.com/toxic-leadership-and-empowering-leadership-relations-with-work-motivat-peer-reviewed-fulltext-article-PRBM) by Semedo et al. (2022).
+3. Read [Impact of Transformational and Transactional Attributes of School Principal Leadership on Teachers’ Motivation for Work](https://www.frontiersin.org/articles/10.3389/feduc.2021.659919/full) by Duraku & Hoxha (2021).
+4. Read [New Normal: Emergence of Situational Leadership During COVID-19 and Its Impact on Work Motivation and Job Satisfaction](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) by Aslam et al. (2022).
+5. Read [Leader autonomy support in the workplace: A meta-analytic review](https://link.springer.com/article/10.1007/s11031-018-9698-y) by Slemp et al. (2018).
 
 ### **Lesson 2:** Motivating a Group Versus Individuals
 
 1. Read [How to Motivate People Working in Teams](https://www.ccsenet.org/journal/index.php/ijbm/article/view/7656) by Jiang (2010).
-2. Read [The Dual Effect of Transformational Leadership on](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) [Individual- and Team-Level Performance: The Mediational Roles](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) [of Motivational Processes](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) by Lu & Li (2021).
-3. Read [Work Motivation: The Roles of Individual Needs and Social](https://www.mdpi.com/2076-328X/12/2/49/htm) [Conditions](https://www.mdpi.com/2076-328X/12/2/49/htm) by Vo et al. (2022).
+2. Read [The Dual Effect of Transformational Leadership on Individual- and Team-Level Performance: The Mediational Roles of Motivational Processes](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) by Lu & Li (2021).
+3. Read [Work Motivation: The Roles of Individual Needs and Social Conditions](https://www.mdpi.com/2076-328X/12/2/49/htm) by Vo et al. (2022).
 4. Read [The Effects of Leadership Styles on Team Motivation](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) by Rahbi et al. (2017).
-5. Read [The Congruency between Motivation and Job Satisfaction](http://pubs.sciepub.com/jbms/8/3/3/index.html) [in the Context of an Organizational Environment](http://pubs.sciepub.com/jbms/8/3/3/index.html) by Safa et al. (2020).
+5. Read [The Congruency between Motivation and Job Satisfaction in the Context of an Organizational Environment](http://pubs.sciepub.com/jbms/8/3/3/index.html) by Safa et al. (2020).
 
 ### **Lesson 3:** Motivation Theories and Their Application
 
-1. Read [Theories of Motivation and Their Application in](https://researchleap.com/theories-motivation-application-organizations-risk-analysis/) [Organizations: A Risk Analysis](https://researchleap.com/theories-motivation-application-organizations-risk-analysis/) by Badubi (2017).
-2. Read [On the application of the Two-Factor Theory to online](https://link.springer.com/article/10.1007/s42488-021-00061-3) [employer reviews](https://link.springer.com/article/10.1007/s42488-021-00061-3) by Koncar et al. (2022).
+1. Read [Theories of Motivation and Their Application in Organizations: A Risk Analysis](https://researchleap.com/theories-motivation-application-organizations-risk-analysis/) by Badubi (2017).
+2. Read [On the application of the Two-Factor Theory to online employer reviews](https://link.springer.com/article/10.1007/s42488-021-00061-3) by Koncar et al. (2022).
 3. Read Introduction to Business by Gitman et al. (2018).
     1. [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-business/pages/9-4-mcgregors-theories-x-and-y)
 
 ### **Lesson 4:** Leadership Styles and Motivation
 
-1. Read [How does servant leadership influence employees' service](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [innovative behavior? The roles of intrinsic motivation and](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
+1. Read [How does servant leadership influence employees' service innovative behavior? The roles of intrinsic motivation and identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
 2. Read Leadership in Healthcare and Public Health by Applegate et al. (2018).
     1. [An Overview of Leadership Principles and Theories](https://ohiostate.pressbooks.pub/pubhhmp6615/chapter/what-is-leadership-theory-and-practice/)
 3. Read Drink, Swear, Steal, and Lie: Leadership in Four Easy Steps by Whitman (n.d.).
@@ -94,15 +94,15 @@ This document contains the required learning resources and references for the **
 
 ### **Lesson 1:** Defining Change
 
-1. Read [Change Management That Works: Making Impacts in](https://openknowledge.worldbank.org/entities/publication/49658e06-8f16-589c-a0dc-dcad592b3e3e) [Challenging Environments](https://openknowledge.worldbank.org/entities/publication/49658e06-8f16-589c-a0dc-dcad592b3e3e) by Hughes et al. (2017).
-2. Read [Change theory and theory of change: what’s the difference](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-0202-3) [anyway?](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-0202-3) by Reinholz & Andrews (2020).
+1. Read [Change Management That Works: Making Impacts in Challenging Environments](https://openknowledge.worldbank.org/entities/publication/49658e06-8f16-589c-a0dc-dcad592b3e3e) by Hughes et al. (2017).
+2. Read [Change theory and theory of change: what’s the difference anyway?](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-0202-3) by Reinholz & Andrews (2020).
 3. Read [A theory of organizational readiness for change](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-4-67) by Weiner (2009).
-4. Read [How Do You Manage Change in Organizations? Training,](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00313/full) [Development, Innovation, and Their Relationships](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00313/full) by Sartori (2018).
-5. Read [Readiness to Change Over Time: Change Commitment and](https://www.frontiersin.org/articles/10.3389/fpubh.2018.00110/full) [Change Efficacy in a Workplace Health-Promotion Trial](https://www.frontiersin.org/articles/10.3389/fpubh.2018.00110/full) by Helfrich et al. (2018).
+4. Read [How Do You Manage Change in Organizations? Training, Development, Innovation, and Their Relationships](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00313/full) by Sartori (2018).
+5. Read [Readiness to Change Over Time: Change Commitment and Change Efficacy in a Workplace Health-Promotion Trial](https://www.frontiersin.org/articles/10.3389/fpubh.2018.00110/full) by Helfrich et al. (2018).
 
 ### **Lesson 2:** Internal and External Forces of Change
 
-1. Read [How Effective Leadership can Facilitate Change in](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) [Organizations through Improvement and Innovation](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) by Hao & Yazdanifard (2015).
+1. Read [How Effective Leadership can Facilitate Change in Organizations through Improvement and Innovation](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) by Hao & Yazdanifard (2015).
 2. Read Organizational Behavior by Black et al. (2019).
     1. [15.1 The Organization's External Environment](https://openstax.org/books/organizational-behavior/pages/15-1-the-organizations-external-environment)
 3. Read Organizaitonal Behavior by Icfai Business School (n.d.).
