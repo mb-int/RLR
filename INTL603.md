@@ -141,21 +141,21 @@ Students examine marketing practices in a dynamic global environment. In the mod
 
 ## References
 
-### Unit 1
+**Unit 1**
 
-#### Lesson 1
+Lesson 1
 
 Latin American Post. (n.d.). Qatar 2022: A Soccer World Cup with Many Prohibitions. _Latin American Post_. [https://www.latinamericanpost.com/41224-qatar-2022-a-soccer-world-cup-with-many-](https://www.latinamericanpost.com/41224-qatar-2022-a-soccer-world-cup-with-many-prohibitions)
 
 [prohibitions](https://www.latinamericanpost.com/41224-qatar-2022-a-soccer-world-cup-with-many-prohibitions)
 
-#### Lesson 2
+Lesson 2
 
 Nazar, J. (2021, April 21). _13_ Leadership Lessons from Zoom Founder and CEO Eric Yuan. _Entrepreneur_. <https://www.entrepreneur.com/article/368550>
 
 University of Chicago, Booth School of Business Mindworks. (2023). The importance of behavioral science. <https://www.chicagobooth.edu/mindworks/what-is-behavioral-science-research>
 
-#### Lesson 3
+Lesson 3
 
 CIA World Factbook. (2023). India. [https://www.cia.gov/the-world-](https://www.cia.gov/the-world-factbook/countries/india/#communications) [factbook/countries/india/#communications](https://www.cia.gov/the-world-factbook/countries/india/#communications)
 
@@ -165,7 +165,7 @@ Cherel-Bonnemaison, J., et al. (2022). Sustainability in packaging: Global regul
 
 Mancall-Bitel, N. (2017). Everywhere around the world where McDonald's serves beer. _Thrillist_. <https://www.thrillist.com/culture/mcdonalds-beer>
 
-#### Lesson 4
+Lesson 4
 
 Faria, J. (2023). How much is Coca-Cola worth? _Statista.com_. <https://www.statista.com/statistics/326065/coca-cola-brand-value/>
 
@@ -173,7 +173,7 @@ Fisher III, W., & Rigamonti, C. (2005). The South African AIDS controversy: A ca
 
 Yong, N. (2023). Industrial espionage: How China sneaks out America's technology secrets. _BBC_. <https://www.bbc.com/news/world-asia-china-64206950>
 
-#### Lesson 5
+Lesson 5
 
 Barta, T. (2023). The 12 powers of a marketing leader. [https://thomasbarta.com/the-12-powers-of-a-](https://thomasbarta.com/the-12-powers-of-a-marketing-leader/) [marketing-leader/](https://thomasbarta.com/the-12-powers-of-a-marketing-leader/)
 
@@ -183,9 +183,9 @@ Maze, J. (2015). Report: Jared Fogle arrest hurt Subway's reputation.
 
 Faria, J. (2023). How much is Coca-Cola worth? _Statista.com_. <https://www.statista.com/statistics/326065/coca-cola-brand-value/>
 
-### Unit 2
+**Unit 2**
 
-#### Lesson 1
+Lesson 1
 
 American Marketing Association (AMA). (2022). Definitions of Marketing. _American Marketing Association._ <https://www.ama.org/the-definition-of-marketing-what-is-marketing/>
 
@@ -199,11 +199,11 @@ Romanchuk, J. (2023). The Four Types of Research Design: Everything You Need to 
 
 Stadler, C., Mayer, M., & Hautz, J. (2015). Few Companies Actually Succeed at Going Global. _Harvard Business Review._ <https://hbr.org/2015/03/few-companies-actually-succeed-at-going-global>
 
-#### Lesson 2
+Lesson 2
 
 SurveyMonkey, Momentive. (2021, May 4). The 3 Types of Survey Research and When to Use Them. <https://www.surveymonkey.com/mp/3-types-survey-research/>
 
-#### Lesson 3
+Lesson 3
 
 Open Textbook Library. (n.d.). Evaluating the General Environment.
 
@@ -211,7 +211,7 @@ Open Textbook Library. (n.d.). Evaluating the General Environment.
 
 Creately. (n.d.). What is a Situation Analysis? [https://creately.com/blog/strategy-and-planning/what-is-a-](https://creately.com/blog/strategy-and-planning/what-is-a-situation-analysis/) [situation-analysis/](https://creately.com/blog/strategy-and-planning/what-is-a-situation-analysis/)
 
-#### Lesson 4
+Lesson 4
 
 Investopedia. (n.d.). Brand. <https://www.investopedia.com/terms/b/brand.asp>
 
@@ -219,7 +219,7 @@ Business Insider. (2011, February). The 10 most successful rebranding campaigns.
 
 [https://www.businessinsider.com/10-most-successful-rebranding-campaigns-2011-2#pabst-blue-ribbon-](https://www.businessinsider.com/10-most-successful-rebranding-campaigns-2011-2#pabst-blue-ribbon-was-cheap-and-fratty-now-it-sells-for-44-in-china-3) [was-cheap-and-fratty-now-it-sells-for-44-in-china-3](https://www.businessinsider.com/10-most-successful-rebranding-campaigns-2011-2#pabst-blue-ribbon-was-cheap-and-fratty-now-it-sells-for-44-in-china-3)
 
-#### Lesson 5
+Lesson 5
 
 Association of Marketing and Communication Professionals. (n.d.). MarCom Awards Winners. <https://enter.amcpros.com/marcom/winners/>
 
@@ -227,9 +227,9 @@ Demand Metric. (n.d.). Marketing Communications Plan Playbook.
 
 <https://www.demandmetric.com/content/marketing-communications-plan-playbook/>
 
-### Unit 3
+**Unit 3**
 
-#### Lesson 1
+Lesson 1
 
 Egrie, J., & Bietsch, S. (2013). Marketing Research Ethics: How Consumers Feel About Neuromarketing. [https://www.proquest.com/openview/063cc253c018ac490ebb56730d14e365/1.pdf?pq-](https://www.proquest.com/openview/063cc253c018ac490ebb56730d14e365/1.pdf?pq-origsite=gscholar&cbl=2035041)
 
@@ -239,19 +239,19 @@ Gang Du-Jian, Wang-Lin, Zheng-Qi, & Liu-Li Ya. (2012). Neuromarketing: Marketing
 
 Zhang, L., Bao, Y., & Wei, Z. (2022). The Bottom-of-the-Pyramid (BOP) Market: Why and How Does Serving the Impoverished Segment Promote Radical Innovation? _In IEEE Transactions on Engineering Management_. doi: 10.1109/TEM.2022.3216779
 
-#### Lesson 2
+Lesson 2
 
 Burnett, J. (n.d.). Introduction to Marketing. [https://collection.bccampus.ca/textbooks/introducing-](https://collection.bccampus.ca/textbooks/introducing-marketing-global-text-project-171/) [marketing-global-text-project-171/](https://collection.bccampus.ca/textbooks/introducing-marketing-global-text-project-171/)
 
-#### Lesson 3
+Lesson 3
 
 Stokes, R. (2023). The Essential Guide to Marketing in a Digital World.
 
-#### Lesson 4
+Lesson 4
 
 Stokes, R. (2023). The Essential Guide to Marketing in a Digital World.
 
-#### Lesson 5
+Lesson 5
 
 Baumeister, R.F. (2002). Yielding to Temptation: Self-Control Failure, Impulsive Purchasing, and Consumer Behavior. _Journal of Consumer Research, 28_, 670-676.
 
@@ -273,9 +273,9 @@ Kerr, J., Sallis, J.F., Bromby, E., & Glanz, K. (2012). Assessing Reliability an
 
 Vohs, K.D., & Faber, R.J. (2007). Spent Resources: Self-Regulatory Resource Availability Affects Impulse Buying. _Journal of Consumer Research, 33_, 537-547.
 
-### Unit 4
+**Unit 4**
 
-#### Lesson 1
+Lesson 1
 
 Jeannet, JP., Volery, T., Bergmann, H., Amstutz, C. (2021). International Sales and Distribution Strategies. In: Masterpieces of Swiss Entrepreneurship. Springer, Cham. [https://doi.org/10.1007/978-3-030-65287-](https://doi.org/10.1007/978-3-030-65287-6_12) [6_12](https://doi.org/10.1007/978-3-030-65287-6_12)
 
@@ -287,7 +287,7 @@ LibreTexts. (n.d.). Section 5. In International Business.
 
 [https://biz.libretexts.org/Bookshelves/Business/Advanced_Business/Book%3A_International_Business/0](https://biz.libretexts.org/Bookshelves/Business/Advanced_Business/Book%3A_International_Business/08%3A_Chapter_8/8.05%3A_Section_5-) [8%3A_Chapter_8/8.05%3A_Section_5-](https://biz.libretexts.org/Bookshelves/Business/Advanced_Business/Book%3A_International_Business/08%3A_Chapter_8/8.05%3A_Section_5-)
 
-#### Lesson 2
+Lesson 2
 
 OpenStax. (n.d.). Pricing Strategies and Tactics for Existing Products.
 
@@ -301,11 +301,11 @@ University of Minnesota Libraries. (n.d.). Price: The Only Revenue Generator.
 
 <https://open.lib.umn.edu/principlesmarketing/part/chapter-15-price-the-only-revenue-generator/>
 
-#### Lesson 3
+Lesson 3
 
 Jeannet, JP., Volery, T., Bergmann, H., Amstutz, C. (2021). International Sales and Distribution Strategies. In: Masterpieces of Swiss Entrepreneurship. Springer, Cham. [https://doi.org/10.1007/978-3-030-65287-](https://doi.org/10.1007/978-3-030-65287-6_12) [6_12](https://doi.org/10.1007/978-3-030-65287-6_12)
 
-#### Lesson 4
+Lesson 4
 
 FDA. (2019, September 9). FDA warns JUUL Labs for marketing unauthorized modified risk tobacco products, including in outreach to youth. Retrieved from [https://www.fda.gov/news-events/press-](https://www.fda.gov/news-events/press-announcements/fda-warns-juul-labs-marketing-unauthorized-modified-risk-tobacco-products-including-outreach-youth)
 
@@ -313,7 +313,7 @@ FDA. (2019, September 9). FDA warns JUUL Labs for marketing unauthorized modifie
 
 NIDA. (2023, January 23). What is the scope of tobacco, nicotine, and e-cigarette use in the United States? [http://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-scope-](http://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-scope-tobacco-use-its-cost-to-society) [tobacco-use-its-cost-to-society](http://nida.nih.gov/publications/research-reports/tobacco-nicotine-e-cigarettes/what-scope-tobacco-use-its-cost-to-society)
 
-#### Lesson 5
+Lesson 5
 
 OpenStax. (n.d.). In the Spotlight: Marketing Sustainability. Retrieved from [https://openstax.org/books/principles-marketing/pages/19-in-the-](https://openstax.org/books/principles-marketing/pages/19-in-the-spotlight?query=marketing%20sustainability&target=%7B%22index%22%3A0%2C%22type%22%3A%22search%22%7D&fig-00001)
 
@@ -331,25 +331,25 @@ BRG. (2019, February 28). When Silence Is the Best Response on Social Media. _In
 
 Lapaas.com. (2023, March 20). What Is Ethical Marketing? Complete Guide. _Lapaas Digital_. [https://lapaas.com/ethical-marketing/.](https://lapaas.com/ethical-marketing/)
 
-### Unit 5
+**Unit 5**
 
-#### Lesson 1
+Lesson 1
 
 Bonetto, L. (2015, November 18). 56 percent of Americans stop buying from brands they believe are unethical. _Mintel Press Office_, Mintel. [https://www.mintel.com/press-centre/social-and-lifestyle/56-of-](https://www.mintel.com/press-centre/social-and-lifestyle/56-of-americans-stop-buying-from-brands-they-believe-are-unethical) [americans-stop-buying-from-brands-they-believe-are-unethical.](https://www.mintel.com/press-centre/social-and-lifestyle/56-of-americans-stop-buying-from-brands-they-believe-are-unethical)
 
-#### Lesson 2
+Lesson 2
 
 OpenStax. (n.d.). Marketing and the Marketing Process. Retrieved from [https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
 [process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032) [0%7D#para-00032](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
-#### Lesson 3
+Lesson 3
 
 OpenStax. (n.d.). Marketing and the Marketing Process. Retrieved from [https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
 [process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032) [0%7D#para-00032](https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process?query=customer%20loyalty&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A0%7D&para-00032)
 
-#### Lesson 4
+Lesson 4
 
 Burnett, J. (2011). Introducing Marketing. Global Text. Retrieved from <https://textbookequity.org/Textbooks/Burnett_introdmarketingCCM.pdf>
 
@@ -357,6 +357,6 @@ OpenStax. (n.d.). Social Media and Mobile Marketing. Retrieved from [https://ope
 
 [marketing?query=digital%20marketing%20strategies&target=%7B%22type%22%3A%22search%22%2C%](https://openstax.org/books/principles-marketing/pages/16-2-social-media-and-mobile-marketing?query=digital%20marketing%20strategies&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A2%7D&para-00043) [22index%22%3A2%7D#para-00043](https://openstax.org/books/principles-marketing/pages/16-2-social-media-and-mobile-marketing?query=digital%20marketing%20strategies&target=%7B%22type%22%3A%22search%22%2C%22index%22%3A2%7D&para-00043)
 
-#### Lesson 5
+Lesson 5
 
 Burnett, J. (2011). Introducing Marketing. Global Text. Retrieved from <https://textbookequity.org/Textbooks/Burnett_introdmarketingCCM.pdf>
