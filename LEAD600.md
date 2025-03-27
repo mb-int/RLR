@@ -2,95 +2,24 @@
 title: XXX001 Required Learning Resources
 layout: basic
 ---
+# Required Learning Resources and References | Leadership and Organisational Behaviour
 
-Required Learning Resources and References | Leadership and Organisational Behaviour
-
-# Description
+## Description
 
 This document contains the required learning resources and references for the **Leadership and Organisational Behaviour** module. Please select the link to the lesson you are working through in the table of contents to jump to that lesson’s required learning resources.
 
-Table of Contents
+## **Unit 1:** The Foundation of Effective Leadership
 
-[Description 1](#_bookmark0)
-
-[**Unit 1:** The Foundation of Effective Leadership 4](#_bookmark1)
-
-[Lesson 1: Defining Leadership and Leader Power 4](#_bookmark2)
-
-[Lesson 2: Characteristics of Effective Leaders 4](#_bookmark3)
-
-[**Lesson 3:** Leadership Theories and Their Application 5](#_bookmark4)
-
-[Lesson 4: Leadership Versus Management 5](#_bookmark5)
-
-[Lesson 5: Leadership and Followership 5](#_bookmark6)
-
-[Unit 2: The Motivational Leader 7](#_bookmark7)
-
-[Lesson 1: The Power of Motivation 7](#_bookmark8)
-
-[Lesson 2: Motivating a Group Versus Individuals 7](#_bookmark9)
-
-[**Lesson 3:** Motivation Theories and Their Application 8](#_bookmark10)
-
-[Lesson 4: Leadership Styles and Motivation 8](#_bookmark11)
-
-[Lesson 5: Leadership Models and Motivation 8](#_bookmark12)
-
-[Unit 3: The Change Leader 9](#_bookmark13)
-
-[Lesson 1: Defining Change 9](#_bookmark14)
-
-[**Lesson 2:** Internal and External Forces of Change 9](#_bookmark15)
-
-[Lesson 3: Resistance to Change 9](#_bookmark16)
-
-[Lesson 4: Contemporary Change Models 10](#_bookmark17)
-
-[**Lesson 5:** Leading Through Organisational Development (OD) 10](#_bookmark18)
-
-[Unit 4: The Ethical Leader 12](#_bookmark19)
-
-[Lesson 1: Defining Ethics in Leadership 12](#_bookmark20)
-
-[**Lesson 2:** Leader Accountability and Corporate Social Responsibility (CSR)](#_bookmark21)
-
-[. 12](#_bookmark21)
-
-[**Lesson 3:** Contemporary Models of Ethical Leadership 13](#_bookmark22)
-
-[Lesson 4: Ethical Decision-Making in Business 13](#_bookmark23)
-
-[Lesson 5: Ethical Theories 13](#_bookmark24)
-
-[Unit 5: Individual Leadership 15](#_bookmark25)
-
-[Lesson 1: The Autocratic Leader 15](#_bookmark26)
-
-[Lesson 2: The Democratic Leader 15](#_bookmark27)
-
-[Lesson 3: The Laissez-Faire Leader 16](#_bookmark28)
-
-[**Lesson 4:** The Transformational, Transactional, and Servant Leader 16](#_bookmark29)
-
-[Lesson 5: Applying What You Have Learned 17](#_bookmark30)
-
-[References 18](#_bookmark31)
-
-**Unit 1:** The Foundation of Effective Leadership
-
-**Lesson 1:** Defining Leadership and Leader Power
+### **Lesson 1:** Defining Leadership and Leader Power
 
 1. Read Organizational Behavior by Black et al. (2019).
+    1. [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introduction)
+2. Read [Drivers or Drifters? The “Who” and “Why” of Leader Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) [Occupancy—A Mixed-Method Study](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) by Auvinen et al. (2021).
+3. Read [The Emergence of Value-Based Leadership Behavior at the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
+4. Read [The Impact of Acceptance of Leader criteria on](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) [Instructional Leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) by Hejres et al. (2017).
+5. Watch [Distinguishing Leadership and Management Activities](https://www.youtube.com/watch?v=KGlv8iHAdeo) by Wisc-Online (2019).
 
-a) [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introduction)
-
-1. Read [Drivers or Drifters? The “Who” and “Why” of Leader Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) [Occupancy—A Mixed-Method Study](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.573924/full) by Auvinen et al. (2021).
-2. Read [The Emergence of Value-Based Leadership Behavior at the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
-3. Read [The Impact of Acceptance of Leader criteria on](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) [Instructional Leadership](https://www.gavinpublishers.com/article/view/the-impact-of-acceptance-of-leader-criteria-on-instructional-leadership) by Hejres et al. (2017).
-4. Watch [Distinguishing Leadership and Management Activities](https://www.youtube.com/watch?v=KGlv8iHAdeo) by Wisc-Online (2019).
-
-**Lesson 2:** Characteristics of Effective Leaders
+### **Lesson 2:** Characteristics of Effective Leaders
 
 1. Read [Role of Leadership Behaviour in Organizational Culture and](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) [Job](https://iiste.org/Journals/index.php/EJBM/article/view/44161/45547) by Semordzi (2018).
 2. Read [A qualitative study of leadership characteristics among](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) [women who catalyze positive community change](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-12-383) by Folta et al. (2012).
@@ -98,33 +27,32 @@ a) [Chapter 1](https://openstax.org/books/organizational-behavior/pages/1-introd
 4. Read [What are the characteristics of effective leaders?](https://uis.brage.unit.no/uis-xmlui/handle/11250/2563186) by Ingrid (2018).
 5. Read [Leadership style and leadership effectiveness: Does](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) [cultural intelligence moderate the relationship?](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1684-19992017000100019) by Solomon & Steyn (2017).
 6. Read BUS401: Management Leadership by Saylor Academy (n.d.).
+    1. [Unit 2: Leadership Traits](https://learn.saylor.org/mod/page/view.php?id=12921)
 
-a) [Unit 2: Leadership Traits](https://learn.saylor.org/mod/page/view.php?id=12921)
-
-**Lesson 3:** Leadership Theories and Their Application
+### **Lesson 3:** Leadership Theories and Their Application
 
 1. Read [Authoritarian leadership and task performance: the effects](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) [of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
 2. Read [Rethinking Leadership Theories](https://www.researchgate.net/publication/323853843_Rethinking_Leadership_Theories) by Mango (2018).
 3. Read [Leadership Theories: Application in the University Setting](https://techniumscience.com/index.php/socialsciences/article/view/6184) by Alajmi (2022).
 4. Read [Impact of transformational leadership on work](https://fbj.springeropen.com/articles/10.1186/s43093-020-00043-8) [performance, burnout and social loafing: a mediation model](https://fbj.springeropen.com/articles/10.1186/s43093-020-00043-8) by Khan et al. (2020).
 
-**Lesson 4:** Leadership Versus Management
+### **Lesson 4:** Leadership Versus Management
 
 1. Read [How does servant leadership influence employees' service](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [innovative behavior? The roles of intrinsic motivation and](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
 2. Read [Adaptive Managers as Emerging Leaders During the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.661628/full) [COVID-19 Crisis](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.661628/full) by Bajaba (2021).
 3. Read [GOOGLE: a reflection of culture, leader, and management](https://jcsr.springeropen.com/articles/10.1186/s40991-017-0021-0) by Tran (2017).
 4. Read [Leadership in Practice-Contemporary View](https://www.abacademies.org/articles/leadership-in-practicecontemporary-view-12727.html) by Gupta (2021).
 
-**Lesson 5:** Leadership and Followership
+### **Lesson 5:** Leadership and Followership
 
 1. Read [Leadership styles: Which ones define you?](https://davidvinuales.com/2020/08/11/leadership-styles-which-ones-define-you/) by Viñuales (2020).
 2. Read [Reverse the Lens, Set Focus on the Followers: A Theoretical](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) [Framework of Resource Dependence, Upward Influence, and](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) [Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.699340/full) by Tripathi (2021).
 3. Read [Examining the Relationship Between Leaders' Power Use,](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) [Followers' Motivational Outlooks, and Followers' Work](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) [Intentions](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02620/full) by Peyton et al. (2019).
 4. Read [The influence of follower orientation on follower behaviour](https://sajhrm.co.za/index.php/sajhrm/article/view/1718/2851) [in the leadership process](https://sajhrm.co.za/index.php/sajhrm/article/view/1718/2851) by Inderjeet & Scheepers (2022).
 
-**Unit 2:** The Motivational Leader
+## **Unit 2:** The Motivational Leader
 
-**Lesson 1:** The Power of Motivation
+### **Lesson 1:** The Power of Motivation
 
 1. Read [The motivational potential of meaningful work:](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) [Relationships with strengths use, work engagement, and](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) [performance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197599) by Van Wingerden & Van der Stoep (2018).
 2. Read [Toxic Leadership and Empowering Leadership: Relations](https://www.dovepress.com/toxic-leadership-and-empowering-leadership-relations-with-work-motivat-peer-reviewed-fulltext-article-PRBM) [with Work Motivation](https://www.dovepress.com/toxic-leadership-and-empowering-leadership-relations-with-work-motivat-peer-reviewed-fulltext-article-PRBM) by Semedo et al. (2022).
@@ -132,7 +60,7 @@ a) [Unit 2: Leadership Traits](https://learn.saylor.org/mod/page/view.php?id=129
 4. Read [New Normal: Emergence of Situational Leadership During](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) [COVID-19 and Its Impact on Work Motivation and Job](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) [Satisfaction](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.919941/full) by Aslam et al. (2022).
 5. Read [Leader autonomy support in the workplace: A meta-](https://link.springer.com/article/10.1007/s11031-018-9698-y) [analytic review](https://link.springer.com/article/10.1007/s11031-018-9698-y) by Slemp et al. (2018).
 
-**Lesson 2:** Motivating a Group Versus Individuals
+### **Lesson 2:** Motivating a Group Versus Individuals
 
 1. Read [How to Motivate People Working in Teams](https://www.ccsenet.org/journal/index.php/ijbm/article/view/7656) by Jiang (2010).
 2. Read [The Dual Effect of Transformational Leadership on](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) [Individual- and Team-Level Performance: The Mediational Roles](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) [of Motivational Processes](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.606066/full) by Lu & Li (2021).
@@ -140,15 +68,14 @@ a) [Unit 2: Leadership Traits](https://learn.saylor.org/mod/page/view.php?id=129
 4. Read [The Effects of Leadership Styles on Team Motivation](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) by Rahbi et al. (2017).
 5. Read [The Congruency between Motivation and Job Satisfaction](http://pubs.sciepub.com/jbms/8/3/3/index.html) [in the Context of an Organizational Environment](http://pubs.sciepub.com/jbms/8/3/3/index.html) by Safa et al. (2020).
 
-**Lesson 3:** Motivation Theories and Their Application
+### **Lesson 3:** Motivation Theories and Their Application
 
 1. Read [Theories of Motivation and Their Application in](https://researchleap.com/theories-motivation-application-organizations-risk-analysis/) [Organizations: A Risk Analysis](https://researchleap.com/theories-motivation-application-organizations-risk-analysis/) by Badubi (2017).
 2. Read [On the application of the Two-Factor Theory to online](https://link.springer.com/article/10.1007/s42488-021-00061-3) [employer reviews](https://link.springer.com/article/10.1007/s42488-021-00061-3) by Koncar et al. (2022).
 3. Read Introduction to Business by Gitman et al. (2018).
+    1. [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-business/pages/9-4-mcgregors-theories-x-and-y)
 
-a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-business/pages/9-4-mcgregors-theories-x-and-y)
-
-**Lesson 4:** Leadership Styles and Motivation
+### **Lesson 4:** Leadership Styles and Motivation
 
 1. Read [How does servant leadership influence employees' service](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [innovative behavior? The roles of intrinsic motivation and](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) [identification with the leader](https://www.emerald.com/insight/content/doi/10.1108/BJM-09-2019-0335/full/html) by Su (2020).
 2. Read Leadership in Healthcare and Public Health by Applegate et al. (2018).
@@ -156,16 +83,16 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 3. Read Drink, Swear, Steal, and Lie: Leadership in Four Easy Steps by Whitman (n.d.).
     1. [Chapter V: Leadership Styles](https://milnepublishing.geneseo.edu/drinkswearstealandlieleadershipinfoureasysteps/chapter/chapter-v-leadership-styles/)
 
-**Lesson 5:** Leadership Models and Motivation
+### **Lesson 5:** Leadership Models and Motivation
 
 1. Read Principles of Management by Lumen Learning (n.d.).
     1. Navigate to and read [Module 10](https://courses.lumenlearning.com/suny-principlesmanagement/).
 2. Read Organizational Behavior by Black et al. (2019).
     1. [Chapter 12: Leadership](https://openstax.org/books/organizational-behavior/pages/12-introduction)
 
-**Unit 3:** The Change Leader
+## **Unit 3:** The Change Leader
 
-**Lesson 1:** Defining Change
+### **Lesson 1:** Defining Change
 
 1. Read [Change Management That Works: Making Impacts in](https://openknowledge.worldbank.org/entities/publication/49658e06-8f16-589c-a0dc-dcad592b3e3e) [Challenging Environments](https://openknowledge.worldbank.org/entities/publication/49658e06-8f16-589c-a0dc-dcad592b3e3e) by Hughes et al. (2017).
 2. Read [Change theory and theory of change: what’s the difference](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-0202-3) [anyway?](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-0202-3) by Reinholz & Andrews (2020).
@@ -173,7 +100,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [How Do You Manage Change in Organizations? Training,](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00313/full) [Development, Innovation, and Their Relationships](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00313/full) by Sartori (2018).
 5. Read [Readiness to Change Over Time: Change Commitment and](https://www.frontiersin.org/articles/10.3389/fpubh.2018.00110/full) [Change Efficacy in a Workplace Health-Promotion Trial](https://www.frontiersin.org/articles/10.3389/fpubh.2018.00110/full) by Helfrich et al. (2018).
 
-**Lesson 2:** Internal and External Forces of Change
+### **Lesson 2:** Internal and External Forces of Change
 
 1. Read [How Effective Leadership can Facilitate Change in](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) [Organizations through Improvement and Innovation](https://globaljournals.org/GJMBR_Volume15/1-How-Effective-Leadership.pdf) by Hao & Yazdanifard (2015).
 2. Read Organizational Behavior by Black et al. (2019).
@@ -181,7 +108,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 3. Read Organizaitonal Behavior by Icfai Business School (n.d.).
     1. All of the subsections in [Organizational Change](https://ebooks.ibsindia.org/ob/)
 
-**Lesson 3:** Resistance to Change
+### **Lesson 3:** Resistance to Change
 
 1. Read [The Psychology of Resistance to Change: The Antidotal](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) [Effect of Organizational Justice, Support and Leader-Member](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) [Exchange](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.678952/full) by Rehman et al. (2021).
 2. Read [Resistance to (Digital) Change](https://link.springer.com/chapter/10.1007/978-3-030-55878-9_13) by Scholkmann (2021).
@@ -190,7 +117,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 
 [Conscientiousness and Teachers’ Job Satisfaction. The](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full) [Moderating Role of Learning Goals Orientation](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.757681/full) by Paloş (2022).
 
-**Lesson 4:** Contemporary Change Models
+### **Lesson 4:** Contemporary Change Models
 
 1. Read [The determinants of organizational change management](https://journals.sagepub.com/doi/full/10.1177/18479790211016273) [success: Literature review and case study](https://journals.sagepub.com/doi/full/10.1177/18479790211016273) by Errida et al. (2021).
 2. Read [Change Engagement, Change Resources, and Change](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) [Demands: A Model for Positive Employee Orientations to](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) [Organizational Change](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.531944/full) by Albrecht et al. (2020).
@@ -198,7 +125,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [A Theoretical Analysis of Managerial Growth in the](https://www.mdpi.com/2071-1050/14/8/4523/htm) [Context of Organizational Change](https://www.mdpi.com/2071-1050/14/8/4523/htm) by Kolbergytė & Dromantaitė (2022).
 5. Read [Exploring a model for finding meaning in the changing](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2071-07632012000100005) [world of work](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2071-07632012000100005) by Burger et al. (2012).
 
-**Lesson 5:** Leading Through Organisational Development (OD)
+### **Lesson 5:** Leading Through Organisational Development (OD)
 
 1. Read [A Framework to Map a Practice as Organization](https://www.sciencedirect.com/science/article/pii/S2212567114001907) [Development](https://www.sciencedirect.com/science/article/pii/S2212567114001907) by Gohil & Deshpande (2014).
 2. Read [Understanding organisational development, sustainability,](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [and diffusion of innovations within hospitals participating in a](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) [multilevel quality collaborative](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-18) by Dückers et al. (2011).
@@ -206,16 +133,16 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [The Emergence of Value-Based Leadership Behavior at the](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Frontline of Management: A Role Theory Perspective and Future](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) [Research Agenda](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.635106/full) by Chang et al. (2021).
 5. Read [Organizational innovation: a comprehensive model for](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) [catalyzing organizational development and change in a rapidly](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) [changing world](https://triplehelixjournal.springeropen.com/articles/10.1186/s40604-015-0021-6) by Steiber & Alänge (2015).
 
-**Unit 4:** The Ethical Leader
+## **Unit 4:** The Ethical Leader
 
-**Lesson 1:** Defining Ethics in Leadership
+### **Lesson 1:** Defining Ethics in Leadership
 
 1. Read [What Is Ethics in Research & Why Is It Important?](https://www.niehs.nih.gov/research/resources/bioethics/whatis/index.cfm) by Resnik (2020).
 2. Read [How ethical leadership is related to authenticity](https://link.springer.com/article/10.1365/s42681-020-00006-1) by Demont-Biaggi (2020).
 3. Read Ethics in Life and Vocation by Whitman (n.d.).
     1. [Chapter 5: Ethical Leadership](https://milnepublishing.geneseo.edu/ethicsinlifeandvocation/chapter/chapter-5-ethical-leadership/)
 4. Read Business Ethics by Byars & Stanberry (2018).
-    1. [Dan Bane, chairman and chief executive officer of Trader Joe’s](https://openstax.org/books/business-ethics/pages/b-profiles-in-business-ethics-contemporary-thought-leaders) **Lesson 2:** Leader Accountability and Corporate Social Responsibility (CSR)
+    1. [Dan Bane, chairman and chief executive officer of Trader Joe’s](https://openstax.org/books/business-ethics/pages/b-profiles-in-business-ethics-contemporary-thought-leaders) Lesson 2: Leader Accountability and Corporate Social Responsibility (CSR)
 5. Read [How Corporate Social Responsibility Boosts Corporate](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) [Financial and Non-financial Performance: The Moderating Role](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) [of Ethical Leadership](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.871334/full) by Bouichou et al. (2022).
 6. Read [Responsible Leadership Fuels Innovative Behavior: The](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) [Mediating Roles of Socially Responsible Human Resource](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) [Management and Organizational Pride](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.787833/full) by Dong & Zhong (2021).
 7. Read [Corporate sustainability and responsibility: creating value](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) [for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
@@ -223,12 +150,12 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
     1. [3.4 Corporate Social Responsibility (CSR)](https://openstax.org/books/business-ethics/pages/3-4-corporate-social-responsibility-csr)
 9. Read [4 examples of corporate social responsibility done right](https://www.socialbrite.org/2010/04/22/4-examples-of-corporate-social-responsibility-done-right/) by Lasica (2010).
 
-**Lesson 3:** Contemporary Models of Ethical Leadership
+### **Lesson 3:** Contemporary Models of Ethical Leadership
 
 1. Review [Corporate sustainability and responsibility: creating](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) [value for business, society and the environment](https://ajssr.springeropen.com/articles/10.1186/s41180-017-0016-5) by Camillieri (2017).
 2. Read [The Anti-Egoist Perspective in Business Ethics and its Anti-](https://link.springer.com/article/10.1007/s40926-022-00202-7) [Business Manifestations](https://link.springer.com/article/10.1007/s40926-022-00202-7) by Svanberg & Svanberg (2022).
 
-**Lesson 4:** Ethical Decision-Making in Business
+### **Lesson 4:** Ethical Decision-Making in Business
 
 1. Read Principles of Management by Bright et al. (2019).
     1. [Chapter 2](https://openstax.org/books/principles-management/pages/2-introduction), with a focus on [2.5 Improving the Quality of](https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making) [Decision-Making](https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making)
@@ -236,7 +163,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
     1. [Chapter 3](https://openstax.org/books/business-ethics/pages/3-introduction)
     2. [Chapter 4](https://openstax.org/books/business-ethics/pages/4-introduction)
 
-**Lesson 5:** Ethical Theories
+### **Lesson 5:** Ethical Theories
 
 1. Read Entrepreneurship by Arthur et al. (2020).
     1. [3.3 Developing a Workplace Culture of Ethical Excellence and](https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability) [Accountability](https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability)
@@ -248,16 +175,16 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 3. [Explanation, justification, and egalitarianism](https://link.springer.com/article/10.1007/s11229-021-03222-4) by Spafford (2021).
 4. On [Consequentialism and Fairness](https://www.frontiersin.org/articles/10.3389/frai.2020.00034/full) by Card & Smith (2020).
 
-**Unit 5:** Individual Leadership
+## **Unit 5:** Individual Leadership
 
-**Lesson 1:** The Autocratic Leader
+### **Lesson 1:** The Autocratic Leader
 
 1. Read [Authoritarian Leadership in Organizational Change and](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) [Employees’ Active Reactions: Have-to and Willing-to](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) [Perspectives](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.03076/full) by Du et al. (2020).
 2. Read [Authoritarian leadership and task performance: the effects](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) [of leader-member exchange and dependence on leader](https://fbr.springeropen.com/articles/10.1186/s11782-019-0066-x) by Wang et al. (2019).
 3. Read [How Authoritarian Leadership Affects Employee's Helping](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) [Behavior? The Mediating Role of Rumination and Moderating](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) [Role of Psychological Ownership](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.667348/full) by Asim et al. (2021).
 4. Read [The Impact of Autocratic and Democratic Leadership Style](https://www.ccsenet.org/journal/index.php/ibr/article/view/14599) [on Job Satisfaction](https://www.ccsenet.org/journal/index.php/ibr/article/view/14599) by Bhatti (2012).
 
-**Lesson 2:** The Democratic Leader
+### **Lesson 2:** The Democratic Leader
 
 1. Read [Leadership Styles in Relation to Employees’ Trust and](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizational Change Capacity: Evidence From Non-Profit](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) [Organizations](https://journals.sagepub.com/doi/pdf/10.1177/2158244016675396) by Yasir et al. (2016).
 2. Read [The Influence of Indirect Democracy and Leadership](https://link.springer.com/article/10.1007/s10683-022-09750-1) [Choice on Cooperation](https://link.springer.com/article/10.1007/s10683-022-09750-1) by Schories (2022).
@@ -265,7 +192,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [Democratic Leadership in Coalition Schools: Why It’s](http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/) [Necessary, How It Works](http://essentialschools.org/horace-issues/democratic-leadership-in-coalition-schools-why-its-necessary-how-it-works/) by Davidson (2002).
 5. Read [The Effects of Leadership Styles on Team Motivation](https://www.abacademies.org/articles/the-effects-of-leadership-styles-on-team-motivation-6793.html) by Al Rahbi et al. (2017).
 
-**Lesson 3:** The Laissez-Faire Leader
+### **Lesson 3:** The Laissez-Faire Leader
 
 1. Read [Main and interactive effects of weekly transformational](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) [and laissez-faire leadership on followers’ trust in the leader and](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) [leader effectiveness](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12253) by Breevaart & Zacher (2019).
 2. Read [Laissez-Faire Leadership and Affective Commitment: the](https://link.springer.com/article/10.1007/s10869-020-09700-9) [Roles of Leader-Member Exchange and Subordinate Relational](https://link.springer.com/article/10.1007/s10869-020-09700-9) [Self-concept](https://link.springer.com/article/10.1007/s10869-020-09700-9) by Robert & Vandenberghe (2021).
@@ -273,7 +200,7 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [High-Performance Work Practices and Interpersonal](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.854118/full) [Relationships: _Laissez-Faire_ Leadership as a Risk Factor](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.854118/full) by Salin et al. (2022).
 5. Read [Laissez-Faire Leadership Positively Impacts Organisational](https://www.journalijar.com/uploads/5f854e47099f3_IJAR-33671.pdf) [Commitment in Healthcare Centres In Qatar](https://www.journalijar.com/uploads/5f854e47099f3_IJAR-33671.pdf) by Alshamari (2020).
 
-**Lesson 4:** The Transformational, Transactional, and Servant Leader
+### **Lesson 4:** The Transformational, Transactional, and Servant Leader
 
 1. Read [Impact of Leadership Styles on Organizational Performance](https://ibimapublishing.com/articles/JHRMR/2018/687849/) by Al Khajeh (2018).
 2. Read [The Effect of Transformational Leadership, Servant](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) [Leadership, and Organizational Learning on Manufacturing](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) [Industry Performance](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.895361/full) by Goestjahjanti et al. (2022).
@@ -281,14 +208,13 @@ a) [9.4 McGregor's Theories X and Y](https://openstax.org/books/introduction-bus
 4. Read [Linking Transformational and Servant Leadership to](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) [Employee Creativity: The Mediating Role of Thriving At Work](https://www.abacademies.org/articles/linking-transformational-and-servant-leadership-to-employee-creativity-the-mediating-role-of-thriving-at-work-12487.html) by Wulansari et al. (2021).
 5. Read [The Role of Transformational and Transactional Leadership](https://www.mdpi.com/2071-1050/13/3/1411/htm) [Approaches on Environmental and Ethical Aspects of CSR](https://www.mdpi.com/2071-1050/13/3/1411/htm) by Changar & Atan (2020).
 6. Read Principles of Management by Lumen Learning (n.d.).
+    1. [All subsections in Module 10: Leadership](https://courses.lumenlearning.com/wm-principlesofmanagement/)
 
-(a) [All subsections in Module 10: Leadership](https://courses.lumenlearning.com/wm-principlesofmanagement/)
-
-**Lesson 5:** Applying What You Have Learned
+### **Lesson 5:** Applying What You Have Learned
 
 1) Review the readings from this unit to help you complete the activity for this lesson.
 
-# References
+## References
 
 Alajmi, M. (2022). Leadership theories: Application in the university setting. _Technium Social Sciences Journal, 30_, 194–
 
