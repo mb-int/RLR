@@ -60,39 +60,3 @@ section {}
 }
 
 
-
-
-
-/* JUST TRYING SPOMETHIGN */
-ol ol ol {
-    display: none;
-}
-
-ol ol ol::before {
-    content: "▶"; /* Adds a visual indicator */
-    display: inline-block;
-    margin-right: 5px;
-    cursor: pointer;
-}
-
-ol ol ol:has(:checked) {
-    display: block; /* Show when checkbox is checked */
-}
-
-.toggle {
-    display: none;
-}
-
-.toggle-label {
-    cursor: pointer;
-}
-
-.toggle-label::before {
-    content: "▶";
-    display: inline-block;
-    margin-right: 5px;
-}
-
-.toggle:checked + .toggle-label::before {
-    content: "▼";
-}
