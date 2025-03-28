@@ -1,4 +1,4 @@
-# chatjippity help with this one... fingers crossed...
+# chatjippity help with this one... fingers crossed... take two...
 name: Convert Markdown to PDF
 
 on:
@@ -17,17 +17,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install markdown-to-pdf
+        run: npm install -g markdown-to-pdf
+
       - name: Get changed Markdown files
         id: changed-files
         run: |
-          echo "files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' | jq -R -s -c 'split("\n")[:-1]')" >> $GITHUB_ENV
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' | xargs)
+          echo "FILES=$FILES" >> $GITHUB_ENV
 
       - name: Convert Markdown to PDF
-        uses: BaileyJM02/markdown-to-pdf@v1.3.0
-        with:
-          input_dir: .
-          output_dir: pdf_output
-          files: ${{ env.files }}
+        if: env.FILES != ''
+        run: |
+          mkdir -p pdf_output
+          for file in $FILES; do
+            markdown-to-pdf "$file" -o "pdf_output/$(basename "$file" .md).pdf"
+          done
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v3
