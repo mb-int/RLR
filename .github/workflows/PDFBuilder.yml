@@ -1,7 +1,7 @@
 on:
   push:
     paths: 
-      - '*.md'
+      - '**.md'
 jobs:
   md2pdf:
     runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
       - name: Build
         uses: docascod/actions-build@1.0
         with:
-          sources: '*.md'
+          sources: '**.md'
       - name: Publish
         uses: actions/upload-artifact@v2
         with:
