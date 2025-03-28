@@ -9,6 +9,11 @@ jobs:
     env:
       DEFAULT_DESTINATION: 'Example/build/'
       DEFAULT_OUTPUT: output.document
+    permissions:
+      pages: write  # Required permission for GitHub Pages deployment
+      id-token: write  # Required permission for deploying to GitHub Pages
+      
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v2
