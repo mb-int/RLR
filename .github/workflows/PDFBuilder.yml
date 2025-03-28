@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@latest
 
       - name: Install markdown-to-pdf
         run: npm install -g markdown-to-pdf
@@ -34,10 +34,10 @@ jobs:
           done
 
       - name: Setup GitHub Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@latest
 
       - name: Upload PDFs to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@latest
         with:
           path: public  # Uploads PDFs directly to GitHub Pages
 
@@ -50,4 +50,4 @@ jobs:
 
     steps:
       - name: Deploy PDFs to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@latest
