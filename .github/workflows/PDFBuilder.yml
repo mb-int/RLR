@@ -17,7 +17,7 @@ jobs:
         with:
           sources: 'Example/*.md'
       - name: Publish
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ${{ env.DEFAULT_DESTINATION }}/*.pdf
       - name: Deploy PDFs to GitHub Pages
