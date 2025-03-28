@@ -6,6 +6,7 @@ layout: basic
 ***
 
 Students examines marketing practices in a dynamic global environment. In the module, students will examine decisions that marketing managers make and begin the process of decision-making using research and marketing tools, both quantitative and qualitative research methods, and cultural understanding when expanding into a new market. The module assumes familiarity with basic marketing concepts and utilizes this as a base to develop insights into global environments.
+
 ***
 
 ## **Unit 1:** Global Marketing Culture and Communication
