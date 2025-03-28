@@ -9,7 +9,7 @@ Students examines marketing practices in a dynamic global environment. In the mo
 
 ***
 
-## **Unit 1:** Global Marketing Culture and Communication
+## **Unit 1:** Global Marketing Culture and Communication 
 
 ### Lesson 1: Communication and Culture
 
