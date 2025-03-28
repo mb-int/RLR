@@ -1,22 +1,53 @@
+name: Convert Markdown to PDF
+
 on:
   push:
-    paths: 
-      - '**.md'
+    paths:
+      - "**.md"
+  pull_request:
+    paths:
+      - "**.md"
+
 jobs:
-  md2pdf:
+  convert-md-to-pdf:
     runs-on: ubuntu-latest
-    name: A job to test this action
-    env:
-      DEFAULT_DESTINATION: 'build/'
-      DEFAULT_OUTPUT: output.document
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Build
-        uses: docascod/actions-build@1.0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install markdown-to-pdf
+        run: npm install -g markdown-to-pdf
+
+      - name: Get changed Markdown files
+        id: changed-files
+        run: |
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' || echo "")
+          echo "FILES=$FILES" >> $GITHUB_ENV
+
+      - name: Convert Markdown to PDF
+        if: env.FILES != ''
+        run: |
+          mkdir -p public/pdf
+          for file in $FILES; do
+            markdown-to-pdf "$file" -o "public/pdf/$(basename "$file" .md).pdf"
+          done
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload PDFs to GitHub Pages
+        uses: actions/upload-pages-artifact@v1
         with:
-          sources: '**.md'
-      - name: Publish
-        uses: actions/upload-artifact@v4
-        with:
-          path: ${{ env.DEFAULT_DESTINATION }}/*.pdf
+          path: public  # Uploads PDFs directly to GitHub Pages
+
+  deploy:
+    needs: convert-md-to-pdf
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy PDFs to GitHub Pages
+        uses: actions/deploy-pages@v1
