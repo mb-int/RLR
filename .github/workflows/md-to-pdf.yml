@@ -1,4 +1,3 @@
-# chatjippity help with this one... fingers crossed... take two...
 name: Convert Markdown to PDF
 
 on:
@@ -23,7 +22,7 @@ jobs:
       - name: Get changed Markdown files
         id: changed-files
         run: |
-          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' | xargs)
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' || echo "")
           echo "FILES=$FILES" >> $GITHUB_ENV
 
       - name: Convert Markdown to PDF
@@ -34,12 +33,10 @@ jobs:
             markdown-to-pdf "$file" -o "pdf_output/$(basename "$file" .md).pdf"
           done
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v3
-
-      - name: Upload PDFs to GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+      - name: Upload PDFs as artifacts
+        uses: actions/upload-artifact@v3
         with:
+          name: markdown-pdfs
           path: pdf_output
 
   deploy:
@@ -50,5 +47,19 @@ jobs:
       id-token: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download PDF artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: markdown-pdfs
+          path: public/pdf
+
+      - name: Upload PDFs to GitHub Pages
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v1
