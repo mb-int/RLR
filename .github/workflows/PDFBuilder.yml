@@ -24,7 +24,7 @@ jobs:
       - name: Get changed Markdown files
         id: changed-files
         run: |
-          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' || echo "")
+          FILES=$(git diff --name-only HEAD^ HEAD -- '*.md' || echo "")
           echo "FILES=$FILES" >> $GITHUB_ENV
 
       - name: Convert Markdown to PDF
