@@ -16,8 +16,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install markdown-to-pdf
-        run: npm install -g markdown-to-pdf  # Install PDF conversion tool
+      - name: Install pandoc and LaTeX (for PDF output)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive
 
       - name: Get changed Markdown files
         id: changed-files
@@ -30,7 +32,7 @@ jobs:
         run: |
           mkdir -p public/pdf  # Create PDF output folder
           for file in $FILES; do
-            markdown-to-pdf "$file" -o "public/pdf/$(basename "$file" .md).pdf"  # Convert each .md to .pdf
+            pandoc "$file" -o "public/pdf/$(basename "$file" .md).pdf"  # Convert each .md to .pdf
           done
 
       - name: Deploy to GitHub Pages
