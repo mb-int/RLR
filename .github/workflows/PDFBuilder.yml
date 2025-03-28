@@ -1,29 +1,50 @@
+name: Convert Markdown to PDF and Deploy
+
 on:
   push:
-    paths: 
-      - '**.md'
+    paths:
+      - "**.md"  # Trigger workflow on changes to markdown files
+  pull_request:
+    paths:
+      - "**.md"
+
 jobs:
-  md2pdf:
+  convert-md-to-pdf:
     runs-on: ubuntu-latest
-    name: A job to test this action
-    env:
-      DEFAULT_DESTINATION: 'Example/build/'
-      DEFAULT_OUTPUT: output.document
-    permissions:
-      pages: write  # Required permission for GitHub Pages deployment
-      id-token: write  # Required permission for deploying to GitHub Pages
-      
-      
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Build
-        uses: docascod/actions-build@1.0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install markdown-to-pdf
+        run: npm install -g markdown-to-pdf  # Install PDF conversion tool
+
+      - name: Get changed Markdown files
+        id: changed-files
+        run: |
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.md' || echo "")
+          echo "FILES=$FILES" >> $GITHUB_ENV
+
+      - name: Convert Markdown to PDF
+        if: env.FILES != ''
+        run: |
+          mkdir -p public/pdf  # Create PDF output folder
+          for file in $FILES; do
+            markdown-to-pdf "$file" -o "public/pdf/$(basename "$file" .md).pdf"  # Convert each .md to .pdf
+          done
+
+      - name: Deploy to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          sources: 'Example/*.md'
-      - name: Publish
-        uses: actions/upload-artifact@v4
-        with:
-          path: ${{ env.DEFAULT_DESTINATION }}/*.pdf
-      - name: Deploy PDFs to GitHub Pages
-        uses: actions/deploy-pages@v4.0.5
+          path: public  # Uploads everything in the 'public' directory to GitHub Pages
+
+  deploy:
+    needs: convert-md-to-pdf
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write  # Required permission for deploying to GitHub Pages
+      id-token: write  # Required for authentication during deployment
+
+    steps:
+      - name: Deploy PDFs and content to GitHub Pages
+        uses: actions/deploy-pages@v4
