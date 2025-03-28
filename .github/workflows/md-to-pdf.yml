@@ -33,10 +33,12 @@ jobs:
             markdown-to-pdf "$file" -o "pdf_output/$(basename "$file" .md).pdf"
           done
 
-      - name: Upload PDFs as artifacts
-        uses: actions/upload-artifact@v4
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload PDFs to GitHub Pages
+        uses: actions/upload-pages-artifact@v2
         with:
-          name: markdown-pdfs
           path: pdf_output
 
   deploy:
@@ -47,19 +49,5 @@ jobs:
       id-token: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download PDF artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: markdown-pdfs
-          path: public/pdf
-
-      - name: Upload PDFs to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: public
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+      - name: Deploy PDFs to GitHub Pages
+        uses: actions/deploy-pages@v2
